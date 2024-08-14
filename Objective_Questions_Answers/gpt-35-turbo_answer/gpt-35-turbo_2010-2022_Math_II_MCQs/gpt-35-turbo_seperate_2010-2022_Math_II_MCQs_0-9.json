@@ -1,0 +1,154 @@
+{
+"keyword": "2010-2022_Math_II_MCQs",
+"example": [
+{
+    "index": 0,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "1. （5 分) 已知集合 $A=\\{x|| x \\mid \\leqslant 2, x \\in R\\}, B=\\{x \\mid \\sqrt{x} \\leqslant 4, x \\in Z\\}$, 则 $A \\cap B=(\\quad)$\nA. $(0,2)$\nB. $[0,2]$\nC. $\\{0,2\\}$\nD. $\\{0,1,2\\}$\n",
+    "standard_answer": [
+        "D"
+    ],
+    "analysis": "解: $\\because A=\\{x|| x \\mid \\leqslant 2\\}=\\{x \\mid-2 \\leqslant x \\leqslant 2\\}$\n\n$B=\\{x \\mid \\sqrt{x} \\leqslant 4, \\quad x \\in Z\\}=\\{0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15$ , 16$\\}$\n\n则 $A \\cap B=\\{0,1,2\\}$\n\n故选: D.\n",
+    "model_answer": [
+        "D"
+    ],
+    "model_output": "【解析】\n集合 $A$ 中的元素是实数且小于等于 $2$，集合 $B$ 中的元素是整数且平方根小于等于 $4$，即 $B=\\{0,1,2,3,4\\}$。因此 $A \\cap B$ 中的元素必须既是实数又是整数，且小于等于 $2$ 且平方根小于等于 $4$，即 $A \\cap B=\\{0,1,2\\}$。\n因此，选 【答案】D。 <eoa>"
+},
+{
+    "index": 1,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "2. （5 分) 平面向量 $\\vec{a}, \\vec{b}$, 已知 $\\vec{a}=(4,3), 2 \\vec{a}+\\vec{b}=， 3,18 ＼mathrm{~, ~ 则 ~} \\vec{a}, \\vec{b}$ 夹角 的余弦值等于 ( $)$\nA. $\\frac{8}{65}$\nB. $-\\frac{8}{65}$\nC. $\\frac{16}{65}$\nD. $-\\frac{16}{65}$\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "解: 设 $\\vec{b}=(x, y)$,\n\n$\\because a=(4,3), 2 a+b=(3,18)$,\n\n$\\therefore \\vec{b}=(-5,12)$\n\n$\\therefore \\cos \\theta=\\frac{-20+36}{5 \\times 13}$\n\n$=\\frac{16}{65}$\n\n故选: C.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n根据已知条件，可以列出方程组：\n$$\n\\begin{cases}\n2a_1+b_1=3\\\\\n2a_2+b_2=18\n\\end{cases}\n$$\n代入 $\\vec{a}=(4,3)$，解得 $\\vec{b}=(-5,12)$。\n由向量内积公式可知：\n$$\n\\vec{a} \\cdot \\vec{b}=|\\vec{a}||\\vec{b}|\\cos{\\theta}\n$$\n其中 $\\theta$ 为 $\\vec{a}$ 和 $\\vec{b}$ 的夹角。\n代入 $\\vec{a}=(4,3), \\vec{b}=(-5,12)$，得到：\n$$\n\\vec{a} \\cdot \\vec{b}=(-8)\\cos{\\theta}\n$$\n又因为 $|\\vec{a}|=\\sqrt{4^2+3^2}=5$，$|\\vec{b}|=\\sqrt{(-5)^2+12^2}=13$，代入上式，得到：\n$$\n\\cos{\\theta}=-\\frac{8}{65}\n$$\n因此，选项 $\\textbf{(B)}$ 正确。\n【答案】B <eoa>"
+},
+{
+    "index": 2,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "3. (5 分) 已知复数 $Z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}$, 则 $|z|=(\\quad)$\nA. $\\frac{1}{4}$\nB. $\\frac{1}{2}$\nC. 1\nD. 2\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解: 化简得 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}=\\frac{\\sqrt{3}+i}{-2-2 \\sqrt{3} i}=-\\frac{1}{2} \\cdot \\frac{\\sqrt{3}+i}{1+\\sqrt{3} i}$\n\n$=-\\frac{1}{2} \\cdot \\frac{(\\sqrt{3}+i)(1-\\sqrt{3} i)}{(1+\\sqrt{3} i)(1-\\sqrt{3} i)}=-\\frac{1}{2} \\cdot \\frac{2 \\sqrt{3}-2 i}{4}=-\\frac{\\sqrt{3}}{4}+\\frac{i}{4}$,\n\n故 $|z|=\\sqrt{\\left(\\frac{\\sqrt{3}}{4}\\right)^{2}+\\left(\\frac{1}{4}\\right)^{2}}=\\frac{1}{2}$,\n\n故选: B.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】\n首先，我们要将复数 $Z$ 化简：\n$$\n\\begin{aligned} Z &=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}} \\\\ &=\\frac{\\sqrt{3}+i}{1-2 \\sqrt{3} i-3} \\\\ &=\\frac{\\sqrt{3}+i}{-2 \\sqrt{3} i-2} \\\\ &=\\frac{\\sqrt{3}+i}{-2(1+\\sqrt{3} i)} \\\\ &=\\frac{\\sqrt{3}+i}{-2}\\cdot\\frac{1}{1+\\sqrt{3} i} \\\\ &=\\frac{\\sqrt{3}+i}{-2}\\cdot\\frac{1-\\sqrt{3} i}{1+3} \\\\ &=\\frac{\\sqrt{3}+i}{-2}\\cdot\\frac{1-\\sqrt{3} i}{4} \\\\ &=\\frac{1}{8}-\\frac{\\sqrt{3}}{8} i. \\end{aligned}\n$$\n因此，$|Z|=\\sqrt{\\left(\\frac{1}{8}\\right)^{2}+\\left(-\\frac{\\sqrt{3}}{8}\\right)^{2}}=\\frac{1}{4}$。\n\n【答案】A<eoa>"
+},
+{
+    "index": 3,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "4. (5 分) 曲线 $y=x^{3}-2 x+1$ 在点 $(1,0)$ 处的切线方程为（ $)$\nA. $y=x-1$\nB. $y=-x+1$\nC. $y=2 x-2$\nD. $y=-2 x+2$\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "解：验证知, 点 $(1,0)$ 在曲线上\n\n$\\because y=x^{3}-2 x+1$\n\n$y^{\\prime}=3 x^{2}-2$, 所以 $k=\\left.y^{\\prime}\\right|_{x-1}=1$, 得切线的斜率为 1 , 所以 $k=1$;\n\n所以曲线 $y=f(x)$ 在点 $(1,0)$ 处的切线方程为:\n\n$y-0=1 \\times(x-1)$ ，即 $y=x-1$.\n\n故选: A.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】\n曲线 $y=x^{3}-2 x+1$ 的导数为 $y'=3x^2-2$，在点 $(1,0)$ 处的导数为 $y'=3-2=1$，所以切线的斜率为 $1$。又因为切线过点 $(1,0)$，所以切线方程为 $y-0=1(x-1)$，即 $y=x-1$。\n因此，选项 $\\textbf{A}$ 正确。\n\n【答案】A<eoa>"
+},
+{
+    "index": 4,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "5. (5 分) 中心在原点, 焦点在 $\\mathrm{x}$ 轴上的双曲线的一条渐近线经过点 $(4,2)$, 则它的离心率为 $(\\quad)$\nA. $\\sqrt{6}$\nB. $\\sqrt{5}$\nC. $\\frac{\\sqrt{6}}{2}$\nD. $\\frac{\\sqrt{5}}{2}$\n",
+    "standard_answer": [
+        "D"
+    ],
+    "analysis": "解: $\\because$ 渐近线的方程是 $y= \\pm \\frac{b}{a} x$,\n\n$\\therefore 2=\\frac{b}{a} \\bullet 4, \\frac{b}{a}=\\frac{1}{2}, \\quad a=2 b$,\n\n$c=\\sqrt{a^{2}+b^{2}}=\\frac{\\sqrt{5}}{2} a, \\quad e=\\frac{c}{a}=\\frac{\\sqrt{5}}{2}$ 即它的离心率为 $\\frac{\\sqrt{5}}{2}$.\n\n故选: D.\n",
+    "model_answer": [
+        "D"
+    ],
+    "model_output": "【解析】\n设双曲线方程为 $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$，其中 $a>b$，则焦点坐标为 $(\\pm c,0)$，其中 $c=\\sqrt{a^2+b^2}$，离心率为 $e=\\frac{c}{a}$。由于双曲线中心在原点，故 $c=a$，即 $a^2=b^2+c^2$。\n\n双曲线的一条渐近线方程为 $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=0$，即 $y=\\pm\\frac{b}{a}x$。设该渐近线方程为 $y=kx$，则 $k=\\pm\\frac{b}{a}$。\n\n由于渐近线经过点 $(4,2)$，故有 $2=k\\times 4$，即 $k=\\frac{1}{2}$。又因为 $a>b$，故 $k=\\frac{b}{a}<1$，故 $k=\\frac{1}{2}=\\frac{b}{a}$，即 $b=\\frac{a}{2}$。\n\n代入 $a^2=b^2+c^2$，得 $a^2=\\frac{5}{4}c^2$。又因为 $c=a$，故 $a=\\sqrt{\\frac{5}{4}}c$，即 $e=\\frac{c}{a}=\\frac{2}{\\sqrt{5}}$。\n\n综上所述，离心率为 $\\frac{2}{\\sqrt{5}}$，选项为 $\\mathrm{(D)}$。\n\n【答案】D<eoa>"
+},
+{
+    "index": 5,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "7. （5 分) 设长方体的长、宽、高分别为 $2 a 、 a 、 a$, 其顶点都在一个球面上, 则该球的表面积为 $(\\quad)$\nA. $3 \\pi a^{2}$\nB. $6 \\pi a^{2}$\nC. $12 \\pi a^{2}$\nD. $24 \\pi a^{2}$\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解：根据题意球的半径 $\\mathrm{R}$ 满足\n\n$(2 R)^{2}=6 a^{2}$,\n\n所以 $S_{\\text {球 }}=4 \\pi R^{2}=6 \\pi a^{2}$.\n\n故选: B.\n",
+    "model_answer": [
+        "D"
+    ],
+    "model_output": "【解析】\n设球的半径为 $r$，则有 $r^{2}=a^{2}+a^{2}+4 a^{2}=6 a^{2}$，即 $r=\\sqrt{6} a$。\n球的表面积为 $S=4 \\pi r^{2}=24 \\pi a^{2}$。\n因此，选项为 $\\textbf{(D)}$。\n\n【答案】\nD. $24 \\pi a^{2}$ <eoa>"
+},
+{
+    "index": 6,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "9. （5 分）设偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 则 $\\{x \\mid f(x-2)>0\\}=($ )\nA. $\\{x \\mid x<-2$ 或 $x>4\\}$\nB. $\\{x \\mid x<0$ 或 $x>4\\}$\nC. $\\{x \\mid x<0$ 或 $x>6\\}$\nD. $\\{x \\mid x<-2$ 或 $x>2\\}$\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解：由偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 可得 $f(x)=f(|x|)$ $=2^{|x|}-4$,\n\n则 $f(x-2)=f(|x-2|)=2^{|x-2|}-4$, 要使 $f(|x-2|)>0$, 只需 $2^{|x-2|}-4>0$,\n\n$$\n|x-2|>2\n$$\n\n解得 $x>4$, 或 $x<0$.\n\n应选: B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n首先，偶函数 $f(x)$ 满足 $f(x)=f(-x)$，因此 $f(x-2)=f(-(x-2))=f(2-x)$。\n当 $x<0$ 时，$2-x>2>0$，因此 $f(x-2)=f(2-x)=2^{2-x}-4<0$；\n当 $0\\leqslant x<2$ 时，$2-x\\geqslant 0$，因此 $f(x-2)=f(2-x)=2^{2-x}-4>0$；\n当 $x\\geqslant 2$ 时，$2-x<0$，因此 $f(x-2)=f(2-x)=2^{2-x}-4<0$。\n综上所述，$\\{x \\mid f(x-2)>0\\}=[0,2)$。\n又因为 $f(x)=2^{x}-4(x \\geqslant 0)$，所以 $f(x)$ 在 $(-\\infty,0)$ 上单调递减，在 $[0,+\\infty)$ 上单调递增。因此，$f(x)>0$ 的解集为 $[0,+\\infty)$。\n综上所述，$\\{x \\mid f(x-2)>0\\}=[0,2)$，$\\{x \\mid f(x)>0\\}=[0,+\\infty)$，两者的交集为 $[0,2)$。\n因此，选项 $\\textbf{(B)}$ 正确。\n【答案】B<eoa>"
+},
+{
+    "index": 7,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "10. (5 分) 若 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角, 则 $\\sin \\left(\\alpha+\\frac{\\pi}{4}\\right)=(\\quad)$\nA. $-\\frac{7 \\sqrt{2}}{10}$\nB. $\\frac{7 \\sqrt{2}}{10}$\nC. $\\frac{\\sqrt{2}}{10}$\nD. $\\frac{\\sqrt{2}}{10}$\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "解: $\\because \\alpha$ 是第三象限的角\n\n$\\therefore \\sin \\alpha=-\\sqrt{1-\\frac{16}{25}}=-\\frac{3}{5}$, 所 以 $\\sin \\left(\\alpha+\\frac{\\pi}{4}\\right)=\\sin \\alpha \\cos \\frac{\\pi}{4}+\\cos \\alpha \\sin \\frac{\\pi}{4}=-$ $\\frac{3}{5} \\times \\frac{\\sqrt{2}}{2}-\\frac{4}{5} \\times \\frac{\\sqrt{2}}{2}=-\\frac{7 \\sqrt{2}}{10}$\n\n故选: A.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】\n根据 $\\cos \\alpha=-\\frac{4}{5}$ 可以得到 $\\sin \\alpha=-\\frac{3}{5}$，因为 $\\alpha$ 是第三象限的角，所以 $\\sin \\alpha<0$。\n根据 $\\sin \\left(\\alpha+\\frac{\\pi}{4}\\right)=\\sin \\alpha \\cos \\frac{\\pi}{4}+\\cos \\alpha \\sin \\frac{\\pi}{4}$，代入已知条件，得到：\n$$\\begin{aligned} \\sin \\left(\\alpha+\\frac{\\pi}{4}\\right)&=-\\frac{3}{5} \\cdot \\frac{\\sqrt{2}}{2}-\\frac{4}{5} \\cdot \\frac{\\sqrt{2}}{2} \\\\ &= -\\frac{7 \\sqrt{2}}{10} \\end{aligned}$$\n因此，选项 $\\textbf{(A)}$ 正确。\n【答案】：A <eoa>"
+},
+{
+    "index": 8,
+    "year": "2011",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "1. （5 分）已知集合 $M=\\{0,1 ， 2 ， 3 ， 4\\}, N=\\{1,3 ， 5\\}, P=M \\cap N$, 则 $P$ 的子 集共有 $(\\quad)$\nA. 2 个\nB. 4 个\nC. 6 个\nD. 8 个\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解: $\\because M=\\{0,1,2,3,4\\}, N=\\{1,3,5\\}$,\n\n$\\therefore P=M \\cap N=\\{1,3\\}$\n\n$\\therefore P$ 的子集共有 $2^{2}=4$\n\n故选：B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n$P=M \\cap N$ 表示 $P$ 是 $M$ 和 $N$ 的交集，即 $P$ 中的元素必须同时属于 $M$ 和 $N$。由于 $M$ 中有 $5$ 个元素，$N$ 中有 $3$ 个元素，因此 $P$ 中最多只能有 $3$ 个元素，即 $P=\\{1,3\\}$。$P$ 的子集有 $\\{ \\},\\{1\\},\\{3\\},\\{1,3\\}$，共 $4$ 个。\n\n【答案】B <eoa>"
+},
+{
+    "index": 9,
+    "year": "2011",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "2. (5 分) 复数 $\\frac{5 i}{1-2 i}=(\\quad)$\nA. $2-\\mathrm{i}$\nB. $1-2 \\mathrm{i}$\nC. $-2+i$\nD. $-1+2 i$\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "解: $\\frac{5 i}{1-2 i}=\\frac{5 i(1+2 i)}{(1-2 i)(1+2 i)}=-2+i$ 故选: C.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n将分母有理化，得到\n$$\n\\frac{5 i}{1-2 i}=\\frac{5 i(1+2i)}{(1-2i)(1+2i)}=\\frac{5i+10}{5}=1+2i.\n$$\n因此，选项 $\\textbf{(B)}$ 正确。\n\n【答案】B <eoa>"
+}
+]}

@@ -1,0 +1,154 @@
+{
+"keyword": "2010-2022_Math_II_MCQs",
+"example": [
+{
+    "index": 0,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "1. （5 分) 已知集合 $A=\\{x|| x \\mid \\leqslant 2, x \\in R\\}, B=\\{x \\mid \\sqrt{x} \\leqslant 4, x \\in Z\\}$, 则 $A \\cap B=(\\quad)$\nA. $(0,2)$\nB. $[0,2]$\nC. $\\{0,2\\}$\nD. $\\{0,1,2\\}$\n",
+    "standard_answer": [
+        "D"
+    ],
+    "analysis": "解: $\\because A=\\{x|| x \\mid \\leqslant 2\\}=\\{x \\mid-2 \\leqslant x \\leqslant 2\\}$\n\n$B=\\{x \\mid \\sqrt{x} \\leqslant 4, \\quad x \\in Z\\}=\\{0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15$ , 16$\\}$\n\n则 $A \\cap B=\\{0,1,2\\}$\n\n故选: D.\n",
+    "model_answer": [
+        "D"
+    ],
+    "model_output": "【解析】\n首先，我们需要分别确定集合 $A$ 和集合 $B$ 的元素。\n\n集合 $A$ 是所有小于等于 2 的实数的集合，即：\n\\[ A = \\{x \\mid x \\leqslant 2, x \\in \\mathbb{R}\\} \\]\n这意味着 $A$ 包含所有小于等于 2 的实数。\n\n集合 $B$ 是所有满足 $\\sqrt{x} \\leqslant 4$ 的整数的集合。我们先解不等式 $\\sqrt{x} \\leqslant 4$：\n\\[ \\sqrt{x} \\leqslant 4 \\]\n两边平方得到：\n\\[ x \\leqslant 16 \\]\n因为 $x$ 必须是整数，所以 $B$ 包含所有小于等于 16 的非负整数，即：\n\\[ B = \\{x \\mid x \\leqslant 16, x \\in \\mathbb{Z}, x \\geqslant 0\\} \\]\n即：\n\\[ B = \\{0, 1, 2, 3, \\ldots, 16\\} \\]\n\n现在我们需要找出 $A$ 和 $B$ 的交集，即 $A \\cap B$。交集 $A \\cap B$ 包含所有同时属于 $A$ 和 $B$ 的元素。\n\n集合 $A$ 包含所有小于等于 2 的实数，而集合 $B$ 包含所有小于等于 16 的非负整数。因此，$A \\cap B$ 包含所有小于等于 2 的非负整数：\n\\[ A \\cap B = \\{0, 1, 2\\} \\]\n\n因此，正确答案是 D 选项。\n\n<eoe>\n【答案】 D <eoa>"
+},
+{
+    "index": 1,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "2. （5 分) 平面向量 $\\vec{a}, \\vec{b}$, 已知 $\\vec{a}=(4,3), 2 \\vec{a}+\\vec{b}=， 3,18 ＼mathrm{~, ~ 则 ~} \\vec{a}, \\vec{b}$ 夹角 的余弦值等于 ( $)$\nA. $\\frac{8}{65}$\nB. $-\\frac{8}{65}$\nC. $\\frac{16}{65}$\nD. $-\\frac{16}{65}$\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "解: 设 $\\vec{b}=(x, y)$,\n\n$\\because a=(4,3), 2 a+b=(3,18)$,\n\n$\\therefore \\vec{b}=(-5,12)$\n\n$\\therefore \\cos \\theta=\\frac{-20+36}{5 \\times 13}$\n\n$=\\frac{16}{65}$\n\n故选: C.\n",
+    "model_answer": [
+        "C"
+    ],
+    "model_output": "【解析】\n首先，我们知道向量 \\(\\vec{a} = (4, 3)\\)。\n\n根据题目给出的方程 \\(2\\vec{a} + \\vec{b} = (3, 18)\\)，我们可以先求出向量 \\(\\vec{b}\\)。\n\n将 \\(\\vec{a}\\) 代入方程：\n\\[ 2(4, 3) + \\vec{b} = (3, 18) \\]\n\\[ (8, 6) + \\vec{b} = (3, 18) \\]\n\n解这个方程可以得到：\n\\[ \\vec{b} = (3, 18) - (8, 6) \\]\n\\[ \\vec{b} = (-5, 12) \\]\n\n现在我们需要计算向量 \\(\\vec{a}\\) 和 \\(\\vec{b}\\) 的夹角的余弦值。余弦值的公式是：\n\\[ \\cos \\theta = \\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}| |\\vec{b}|} \\]\n\n首先计算向量 \\(\\vec{a}\\) 和 \\(\\vec{b}\\) 的点积：\n\\[ \\vec{a} \\cdot \\vec{b} = (4, 3) \\cdot (-5, 12) \\]\n\\[ \\vec{a} \\cdot \\vec{b} = 4 \\times (-5) + 3 \\times 12 \\]\n\\[ \\vec{a} \\cdot \\vec{b} = -20 + 36 \\]\n\\[ \\vec{a} \\cdot \\vec{b} = 16 \\]\n\n然后计算向量 \\(\\vec{a}\\) 和 \\(\\vec{b}\\) 的模：\n\\[ |\\vec{a}| = \\sqrt{4^2 + 3^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5 \\]\n\\[ |\\vec{b}| = \\sqrt{(-5)^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13 \\]\n\n将这些值代入余弦公式：\n\\[ \\cos \\theta = \\frac{16}{5 \\times 13} = \\frac{16}{65} \\]\n\n因此，向量 \\(\\vec{a}\\) 和 \\(\\vec{b}\\) 的夹角的余弦值为 \\(\\frac{16}{65}\\)。\n\n【答案】 C <eoa>"
+},
+{
+    "index": 2,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "3. (5 分) 已知复数 $Z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}$, 则 $|z|=(\\quad)$\nA. $\\frac{1}{4}$\nB. $\\frac{1}{2}$\nC. 1\nD. 2\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解: 化简得 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}=\\frac{\\sqrt{3}+i}{-2-2 \\sqrt{3} i}=-\\frac{1}{2} \\cdot \\frac{\\sqrt{3}+i}{1+\\sqrt{3} i}$\n\n$=-\\frac{1}{2} \\cdot \\frac{(\\sqrt{3}+i)(1-\\sqrt{3} i)}{(1+\\sqrt{3} i)(1-\\sqrt{3} i)}=-\\frac{1}{2} \\cdot \\frac{2 \\sqrt{3}-2 i}{4}=-\\frac{\\sqrt{3}}{4}+\\frac{i}{4}$,\n\n故 $|z|=\\sqrt{\\left(\\frac{\\sqrt{3}}{4}\\right)^{2}+\\left(\\frac{1}{4}\\right)^{2}}=\\frac{1}{2}$,\n\n故选: B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n我们首先计算分母 $(1-\\sqrt{3} i)^{2}$。\n\\[\n(1 - \\sqrt{3}i)^2 = 1^2 - 2 \\cdot 1 \\cdot \\sqrt{3}i + (\\sqrt{3}i)^2 = 1 - 2\\sqrt{3}i - 3 = -2 - 2\\sqrt{3}i\n\\]\n\n接下来我们计算分子 $\\sqrt{3} + i$ 和分母 $-2 - 2\\sqrt{3}i$ 的模。\n\n分子的模：\n\\[\n|\\sqrt{3} + i| = \\sqrt{(\\sqrt{3})^2 + 1^2} = \\sqrt{3 + 1} = \\sqrt{4} = 2\n\\]\n\n分母的模：\n\\[\n|-2 - 2\\sqrt{3}i| = \\sqrt{(-2)^2 + (-2\\sqrt{3})^2} = \\sqrt{4 + 12} = \\sqrt{16} = 4\n\\]\n\n复数 $Z$ 的模是分子模与分母模之比：\n\\[\n|Z| = \\frac{|\\sqrt{3} + i|}{|-2 - 2\\sqrt{3}i|} = \\frac{2}{4} = \\frac{1}{2}\n\\]\n\n因此，$|Z| = \\frac{1}{2}$。\n\n【答案】B <eoa>"
+},
+{
+    "index": 3,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "4. (5 分) 曲线 $y=x^{3}-2 x+1$ 在点 $(1,0)$ 处的切线方程为（ $)$\nA. $y=x-1$\nB. $y=-x+1$\nC. $y=2 x-2$\nD. $y=-2 x+2$\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "解：验证知, 点 $(1,0)$ 在曲线上\n\n$\\because y=x^{3}-2 x+1$\n\n$y^{\\prime}=3 x^{2}-2$, 所以 $k=\\left.y^{\\prime}\\right|_{x-1}=1$, 得切线的斜率为 1 , 所以 $k=1$;\n\n所以曲线 $y=f(x)$ 在点 $(1,0)$ 处的切线方程为:\n\n$y-0=1 \\times(x-1)$ ，即 $y=x-1$.\n\n故选: A.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】\n要找到曲线 $y = x^3 - 2x + 1$ 在点 $(1,0)$ 处的切线方程，我们需要进行以下步骤：\n\n1. **求导数**：首先，我们需要求出函数 $y = x^3 - 2x + 1$ 的导数 $y'$，因为导数在给定点处的值就是切线的斜率。\n   \\[\n   y' = \\frac{d}{dx}(x^3 - 2x + 1) = 3x^2 - 2\n   \\]\n\n2. **计算斜率**：接下来，我们将 $x = 1$ 代入导数公式中，计算出在点 $(1,0)$ 处的斜率。\n   \\[\n   y'|_{x=1} = 3(1)^2 - 2 = 3 - 2 = 1\n   \\]\n   所以，切线的斜率是 1。\n\n3. **写出切线方程**：切线方程的形式为 $y - y_1 = m(x - x_1)$，其中 $(x_1, y_1)$ 是切点，$m$ 是斜率。对于点 $(1, 0)$ 和斜率 $1$，切线方程为：\n   \\[\n   y - 0 = 1(x - 1)\n   \\]\n   简化得到：\n   \\[\n   y = x - 1\n   \\]\n\n因此，曲线 $y = x^3 - 2x + 1$ 在点 $(1,0)$ 处的切线方程为 $y = x - 1$。\n\n<eoe>\n【答案】 A <eoa>"
+},
+{
+    "index": 4,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "5. (5 分) 中心在原点, 焦点在 $\\mathrm{x}$ 轴上的双曲线的一条渐近线经过点 $(4,2)$, 则它的离心率为 $(\\quad)$\nA. $\\sqrt{6}$\nB. $\\sqrt{5}$\nC. $\\frac{\\sqrt{6}}{2}$\nD. $\\frac{\\sqrt{5}}{2}$\n",
+    "standard_answer": [
+        "D"
+    ],
+    "analysis": "解: $\\because$ 渐近线的方程是 $y= \\pm \\frac{b}{a} x$,\n\n$\\therefore 2=\\frac{b}{a} \\bullet 4, \\frac{b}{a}=\\frac{1}{2}, \\quad a=2 b$,\n\n$c=\\sqrt{a^{2}+b^{2}}=\\frac{\\sqrt{5}}{2} a, \\quad e=\\frac{c}{a}=\\frac{\\sqrt{5}}{2}$ 即它的离心率为 $\\frac{\\sqrt{5}}{2}$.\n\n故选: D.\n",
+    "model_answer": [
+        "D"
+    ],
+    "model_output": "【解析】\n对于中心在原点，焦点在 x 轴上的双曲线，其标准方程为：\n\\[\n\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1\n\\]\n双曲线的渐近线方程为：\n\\[\ny = \\pm \\frac{b}{a} x\n\\]\n已知渐近线经过点 (4, 2)，则满足：\n\\[\n2 = \\frac{b}{a} \\cdot 4 \\quad \\text{或} \\quad 2 = -\\frac{b}{a} \\cdot 4\n\\]\n我们只考虑正的情况：\n\\[\n2 = \\frac{b}{a} \\cdot 4\n\\]\n解得：\n\\[\n\\frac{b}{a} = \\frac{1}{2}\n\\]\n即：\n\\[\nb = \\frac{a}{2}\n\\]\n双曲线的离心率公式为：\n\\[\ne = \\sqrt{1 + \\frac{b^2}{a^2}}\n\\]\n代入 \\( b = \\frac{a}{2} \\)：\n\\[\ne = \\sqrt{1 + \\frac{\\left(\\frac{a}{2}\\right)^2}{a^2}} = \\sqrt{1 + \\frac{a^2/4}{a^2}} = \\sqrt{1 + \\frac{1}{4}} = \\sqrt{\\frac{5}{4}} = \\frac{\\sqrt{5}}{2}\n\\]\n因此，离心率为 \\(\\frac{\\sqrt{5}}{2}\\)。\n\n【答案】 D <eoa>"
+},
+{
+    "index": 5,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "7. （5 分) 设长方体的长、宽、高分别为 $2 a 、 a 、 a$, 其顶点都在一个球面上, 则该球的表面积为 $(\\quad)$\nA. $3 \\pi a^{2}$\nB. $6 \\pi a^{2}$\nC. $12 \\pi a^{2}$\nD. $24 \\pi a^{2}$\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解：根据题意球的半径 $\\mathrm{R}$ 满足\n\n$(2 R)^{2}=6 a^{2}$,\n\n所以 $S_{\\text {球 }}=4 \\pi R^{2}=6 \\pi a^{2}$.\n\n故选: B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n我们首先需要确定球的半径。已知长方体的长、宽、高分别为 $2a, a, a$，且其顶点都在一个球面上，这意味着球的直径就是长方体的对角线长度。\n\n长方体的对角线长度可以通过勾股定理计算。设长方体的长、宽、高分别为 $2a, a, a$，则对角线长度 $d$ 为：\n\\[\nd = \\sqrt{(2a)^2 + a^2 + a^2} = \\sqrt{4a^2 + a^2 + a^2} = \\sqrt{6a^2} = a\\sqrt{6}\n\\]\n\n因此，球的直径为 $a\\sqrt{6}$，球的半径 $r$ 为：\n\\[\nr = \\frac{a\\sqrt{6}}{2} = a\\sqrt{\\frac{3}{2}}\n\\]\n\n球的表面积公式为 $4\\pi r^2$，代入 $r = a\\sqrt{\\frac{3}{2}}$：\n\\[\n\\text{表面积} = 4\\pi \\left(a\\sqrt{\\frac{3}{2}}\\right)^2 = 4\\pi \\left(a^2 \\cdot \\frac{3}{2}\\right) = 4\\pi \\cdot \\frac{3a^2}{2} = 6\\pi a^2\n\\]\n\n因此，该球的表面积为 $6\\pi a^2$。\n\n【答案】 B <eoa>"
+},
+{
+    "index": 6,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "9. （5 分）设偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 则 $\\{x \\mid f(x-2)>0\\}=($ )\nA. $\\{x \\mid x<-2$ 或 $x>4\\}$\nB. $\\{x \\mid x<0$ 或 $x>4\\}$\nC. $\\{x \\mid x<0$ 或 $x>6\\}$\nD. $\\{x \\mid x<-2$ 或 $x>2\\}$\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解：由偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 可得 $f(x)=f(|x|)$ $=2^{|x|}-4$,\n\n则 $f(x-2)=f(|x-2|)=2^{|x-2|}-4$, 要使 $f(|x-2|)>0$, 只需 $2^{|x-2|}-4>0$,\n\n$$\n|x-2|>2\n$$\n\n解得 $x>4$, 或 $x<0$.\n\n应选: B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n首先，偶函数的定义是：对于所有的 \\( x \\)，都有 \\( f(-x) = f(x) \\)。\n\n已知 \\( f(x) = 2^x - 4 \\) 当 \\( x \\geqslant 0 \\)。\n\n由于 \\( f(x) \\) 是偶函数，所以对于 \\( x < 0 \\)，有 \\( f(x) = f(-x) \\)。\n\n因此， \\( f(x) \\) 的定义可以扩展为：\n\\[ f(x) = 2^{|x|} - 4 \\]\n\n我们需要找到 \\( f(x-2) > 0 \\) 的解集。\n\n首先考虑 \\( x-2 \\geqslant 0 \\) 的情况，即 \\( x \\geqslant 2 \\)：\n\\[ f(x-2) = 2^{x-2} - 4 \\]\n要求 \\( 2^{x-2} - 4 > 0 \\)，即\n\\[ 2^{x-2} > 4 \\]\n\\[ 2^{x-2} > 2^2 \\]\n\\[ x-2 > 2 \\]\n\\[ x > 4 \\]\n\n接下来考虑 \\( x-2 < 0 \\) 的情况，即 \\( x < 2 \\)：\n\\[ f(x-2) = f(2-x) = 2^{2-x} - 4 \\]\n要求 \\( 2^{2-x} - 4 > 0 \\)，即\n\\[ 2^{2-x} > 4 \\]\n\\[ 2^{2-x} > 2^2 \\]\n\\[ 2-x > 2 \\]\n\\[ -x > 0 \\]\n\\[ x < 0 \\]\n\n综上所述，解集为 \\( x < 0 \\) 或 \\( x > 4 \\)。\n\n【答案】B <eoa>"
+},
+{
+    "index": 7,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "10. (5 分) 若 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角, 则 $\\sin \\left(\\alpha+\\frac{\\pi}{4}\\right)=(\\quad)$\nA. $-\\frac{7 \\sqrt{2}}{10}$\nB. $\\frac{7 \\sqrt{2}}{10}$\nC. $\\frac{\\sqrt{2}}{10}$\nD. $\\frac{\\sqrt{2}}{10}$\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "解: $\\because \\alpha$ 是第三象限的角\n\n$\\therefore \\sin \\alpha=-\\sqrt{1-\\frac{16}{25}}=-\\frac{3}{5}$, 所 以 $\\sin \\left(\\alpha+\\frac{\\pi}{4}\\right)=\\sin \\alpha \\cos \\frac{\\pi}{4}+\\cos \\alpha \\sin \\frac{\\pi}{4}=-$ $\\frac{3}{5} \\times \\frac{\\sqrt{2}}{2}-\\frac{4}{5} \\times \\frac{\\sqrt{2}}{2}=-\\frac{7 \\sqrt{2}}{10}$\n\n故选: A.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】\n已知 \\(\\cos \\alpha = -\\frac{4}{5}\\)，且 \\(\\alpha\\) 是第三象限的角。我们需要求 \\(\\sin \\left(\\alpha + \\frac{\\pi}{4}\\right)\\)。\n\n首先，第三象限的角的正弦值为负。利用三角恒等式 \\(\\sin^2 \\alpha + \\cos^2 \\alpha = 1\\)，我们可以求出 \\(\\sin \\alpha\\)：\n\\[\n\\sin^2 \\alpha + \\left(-\\frac{4}{5}\\right)^2 = 1\n\\]\n\\[\n\\sin^2 \\alpha + \\frac{16}{25} = 1\n\\]\n\\[\n\\sin^2 \\alpha = 1 - \\frac{16}{25}\n\\]\n\\[\n\\sin^2 \\alpha = \\frac{25}{25} - \\frac{16}{25}\n\\]\n\\[\n\\sin^2 \\alpha = \\frac{9}{25}\n\\]\n\\[\n\\sin \\alpha = -\\frac{3}{5}\n\\]\n因为 \\(\\alpha\\) 在第三象限，所以 \\(\\sin \\alpha\\) 为负。\n\n接下来，利用和角公式 \\(\\sin \\left(\\alpha + \\frac{\\pi}{4}\\right) = \\sin \\alpha \\cos \\frac{\\pi}{4} + \\cos \\alpha \\sin \\frac{\\pi}{4}\\)：\n\\[\n\\sin \\left(\\alpha + \\frac{\\pi}{4}\\right) = \\left(-\\frac{3}{5}\\right) \\cdot \\frac{\\sqrt{2}}{2} + \\left(-\\frac{4}{5}\\right) \\cdot \\frac{\\sqrt{2}}{2}\n\\]\n\\[\n\\sin \\left(\\alpha + \\frac{\\pi}{4}\\right) = -\\frac{3\\sqrt{2}}{10} - \\frac{4\\sqrt{2}}{10}\n\\]\n\\[\n\\sin \\left(\\alpha + \\frac{\\pi}{4}\\right) = -\\frac{7\\sqrt{2}}{10}\n\\]\n\n因此，正确答案是 A。\n\n【答案】 A <eoa>"
+},
+{
+    "index": 8,
+    "year": "2011",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "1. （5 分）已知集合 $M=\\{0,1 ， 2 ， 3 ， 4\\}, N=\\{1,3 ， 5\\}, P=M \\cap N$, 则 $P$ 的子 集共有 $(\\quad)$\nA. 2 个\nB. 4 个\nC. 6 个\nD. 8 个\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解: $\\because M=\\{0,1,2,3,4\\}, N=\\{1,3,5\\}$,\n\n$\\therefore P=M \\cap N=\\{1,3\\}$\n\n$\\therefore P$ 的子集共有 $2^{2}=4$\n\n故选：B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】\n首先，我们需要求出集合 $P$。集合 $P$ 是集合 $M$ 和集合 $N$ 的交集，即 $P = M \\cap N$。\n\n集合 $M$ 和集合 $N$ 分别为：\n$M = \\{0, 1, 2, 3, 4\\}$\n$N = \\{1, 3, 5\\}$\n\n集合 $P$ 是 $M$ 和 $N$ 的公共元素的集合，因此：\n$P = M \\cap N = \\{1, 3\\}$\n\n接下来，我们需要计算集合 $P$ 的子集个数。一个集合的子集个数是 $2^n$，其中 $n$ 是集合中元素的个数。\n\n集合 $P$ 中有 2 个元素（1 和 3），因此 $P$ 的子集个数为：\n$2^2 = 4$\n\n所以，集合 $P$ 的子集共有 4 个。\n\n【答案】 B <eoa>"
+},
+{
+    "index": 9,
+    "year": "2011",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "2. (5 分) 复数 $\\frac{5 i}{1-2 i}=(\\quad)$\nA. $2-\\mathrm{i}$\nB. $1-2 \\mathrm{i}$\nC. $-2+i$\nD. $-1+2 i$\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "解: $\\frac{5 i}{1-2 i}=\\frac{5 i(1+2 i)}{(1-2 i)(1+2 i)}=-2+i$ 故选: C.\n",
+    "model_answer": [
+        "C"
+    ],
+    "model_output": "【解析】\n我们需要将复数 $\\frac{5i}{1-2i}$ 化为标准形式 $a + bi$。为此，我们可以通过分子和分母同时乘以分母的共轭来消去分母中的虚数部分。\n\n首先，分母 $1-2i$ 的共轭是 $1+2i$。我们将分子和分母同时乘以 $1+2i$：\n\\[\n\\frac{5i}{1-2i} \\cdot \\frac{1+2i}{1+2i} = \\frac{5i(1+2i)}{(1-2i)(1+2i)}\n\\]\n\n接下来，计算分母：\n\\[\n(1-2i)(1+2i) = 1^2 - (2i)^2 = 1 - 4(-1) = 1 + 4 = 5\n\\]\n\n然后，计算分子：\n\\[\n5i(1+2i) = 5i + 10i^2 = 5i + 10(-1) = 5i - 10\n\\]\n\n因此，复数的形式变为：\n\\[\n\\frac{5i - 10}{5} = \\frac{5i}{5} - \\frac{10}{5} = i - 2\n\\]\n\n所以，$\\frac{5i}{1-2i} = -2 + i$。\n\n【答案】C <eoa>"
+}
+]}

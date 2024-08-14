@@ -1,0 +1,234 @@
+{
+"keyword": "2012-2022_English_Cloze_Test",
+"example": [
+{
+    "index": 0,
+    "year": "2012",
+    "category": "（新课标）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能填入空白处的最佳选项 。选项中有\n两项为多余选项。  \nKids ’ health:  Four  steps  for fighting  stress  \nEverybody  gets stressed  time to time.    71    Some  ways  of dealing  with \nstress  --- like screaming  or hitting  someone  --- don’t solve  (解决 ) much.  But other  \nways,  like talking  to someone  you trust,  can lead you to solving  your problem  or at \nleast feeling  better.  \nTry taking  these  four steps.  the next time you are stressed:  \n(1) Get support.  When  you need  help,  reach  out to the people  who care about  \nyou. Talk to a trusted  adult,  such as a parent  or other  relatives.    72    They  might  \nhave  had similar  problems,  such as dealing  with a test, or the death  of a beloved  pet. \n(2) Don’t take it out on yourself.  Sometimes  when  kids are stressed  and upset  \nthey take it out on themselves.  Oh, dear,  that’s not a good  idea.  Remember  that there  \n  are always  people  to help you. Don’t take it out on yourself.    73    \n(3) Try to solve  the problem.  After  you’re calm  and you have  support  from  \nadults  and friends,  it’s time to get down  to business.    74    Even  if you can’t solve  \nit all, you can solve  a piece  of it. \n(4) Be positive.  Most  stress  is temporary  (暂时的 ). Remember  stress  does go \naway,  especially  when  you figure  out the problem  and start working  on solving  it.  \nThese  steps  aren’t magic,  but they do work.  And if you can stay positive  as you \nyou’re  your way through  a tough  time,  you’ll help yourself  feel better  even  faster.    \n75    \nA. Ask for a helping  hand  to get you through  the tough  situation.  \nB. Notice  your friends ’ feelings  and find a way to help them.  \nC. Different  people  feel stress  in different  ways.  \nD. Ah, it feels  so good  when  the stress  is gone.  \nE. You need  to figure  out what  the problem  is. \nF. And don’t forget  about  your friends.  \nG. Then,  find a way to calm  down.\n",
+    "standard_answer": [
+        "C",
+        "F",
+        "A",
+        "E",
+        "D"
+    ],
+    "analysis": "71．C 根据下文的 Some  ways  of dealing  with stress  和But other  ways可知，上文\n是不同的人会以不同的方式感受压力． 故选 C\n72．F 根据下文的  After  you’re calm  and you have  support  from  adults  and friends\n可知，上文是并且不要忘了你的朋友们， 故选 F．\n73．A 根据上文的 Remember  that there  are always  people  to help you可知，意思\n为寻求帮助，使你度过艰难处境， 故选 A．\n74．E 根据上文的 it’s time to get down  to business可知，意思为该做正事了，也\n就是你需要弄清楚这个问题是什么， 故选 E．\n75．D 根据整篇短文可知，最后应该表示，当压力离开的时候你会感觉如此的\n好啊，故选 D．\n",
+    "model_answer": [
+        "C",
+        "E",
+        "F",
+        "G",
+        "A"
+    ],
+    "model_output": "【答案】 C E F G A <eoa>"
+},
+{
+    "index": 1,
+    "year": "2013",
+    "category": "（新课标ii）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能坡入空白处的最佳选项 。选项\n中有两项为多于选项。  \nPublic  Speaking  Training  \n·Get  a coach  \n     71    , so get help.  Since  there  are about  a billion  companies  out there  all \nready  to offer  you public  speaking  training  and courses,  here are some  things  to look \nfor when  deciding  the training  that’s right  for you. \n·Focus  on positives  \nAny training  you do to become  more  effective  at public  speaking  should  always  \n  focus  on the positive  aspects  of what  you already  do well.  Nothing  can hurt \nconfidence  more  than being  told that you aren’t doing  well.      72      , so good  \npublic  speaking  training  should  develop  those  instead  of telling  you what  you \nshouldn ’t do. \n·    73      \nIf you find a public  speaking  course  that looks  as though  it’s going  to give you lots of \ndos and don’ts, walk away!  Your  brain  is so full of what you’re going  to be talking  about .  \n   74    . As far as we’re concerned , there are basically  no hard and fast rules about  \npublic  speaking . Your  audience  can be your friends . \n·You  are a special  person  not a clone  \nMost  importantly,  good  public  speaking  training  should  treat you as a special  \none, with your own personal  habits.      75   . Your  training  course  should  help \nyou bring  out your personality,  not try to turn you into someone  you’re not. \nA. You aren’t like anybody  else \nB. You already  do lots of things  well \nC. Turn  your back  on too many  rules  \nD. Check  the rules  about  dos and don’ts \nE. Whatever  the presentation,  public  speaking  is tough  \nF. The one thing  you don’t want  is for them  to fall asleep  \nG. So trying  to force  a whole  set of rules  into it will just make  things  worse\n",
+    "standard_answer": [
+        "E",
+        "B",
+        "C",
+        "G",
+        "A"
+    ],
+    "analysis": "71．E  根据下一句 \"ready  to offer  you public  speaking  training  and courses\"可知，\n开头说的是与 \"public  speaking\" 有关的问题， 故选 E．\n72．B 本题位于段中，通过上下文得出选项．后一句 \"so good  public  speaking  \ntraining  should  develop  those\"与空格形成因果关系 ，所以空格中应表达 \"你已经做\n得很好了 \"的含义， 所以 B选项是正确答案．\n73．C  本题位于段首，为整段的主旨大意．本段第一句中提到 \"lots of dos and \ndon’ts, walk  away!\"可知，如果有的培训讲太多的条条框框的话 ，要对条条框框说\n不，所以 C选项是正确答案．\n74．G  从前句 \"Your  brain  is so full of what  you’re going  to be talking  about ,\"可知\n后一空与前一空形成因果关系 ，脑子里装满了条条框框只会使情况变得更糟 ．故\n选G．\n75．A  小标题为 \"You  are a special  person  not a clone以及 treat you as a special  \none, with your own personal  habits\"可以得出答案 You aren’t like anybody  else（与\n众不同）． 故答案选 A．\n",
+    "model_answer": [
+        "A",
+        "B",
+        "C",
+        "G",
+        "E"
+    ],
+    "model_output": "【答案】 A B C G E <eoa>"
+},
+{
+    "index": 2,
+    "year": "2013",
+    "category": "（新课标Ⅰ）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能填入空白处的最佳选项 。选项中有\n两项为多余选项。  \nBusiness  is the organized  approach  to providing  customers  with the goods  and \nservices  they want . The word  business  also refers  to an organization  that provides  \nthese  goods  and services . Most  businesses  seek to make  a profit（利润） --- that is, \nthey aim to achieve  income  that is more  than the costs  of operating  the business .  71       \nCommonly  called  nonprofits , these  organizations  are primarily  nongovernmental  \nservice  providers . 　72   　 \nBusiness  management  is a term used to describe  the techniques  of planning , \ndirection , and control  of the operations  of a business . 　73    One is the \nestablishment （制定） of broad  basic  policies  with respect  to production ; sales ; the \npurchase  of equipment , materials  and supplies ; and accounting . 　74   The third  \nrelates  to the establishment  of standards  of work  in all departments . Direction  is \nconcerned  primarily  with supervision （监管） and guidance  by the management  in \nauthority . 　 75  　 \nA. Control  includes  the use of records  and reports  to compare  actual  work  with the set \nstandards  for work.  \nB. In this connection  there  is the difference  between  top management  and operative  \nmanagement.  \nC. Examples  of nonprofit  business  top management  and operative  management.  \nD. However , some  businesses  only seek to enough  to cover  their operating  costs . \nE. The second  aspect  relates  to the application  of these  policies  by departments.  \nF. In the theory  of business  management,  organization  has two main  aspects.  \nG. Planning  in business  management  has three  main  aspects.\n",
+    "standard_answer": [
+        "D",
+        "C",
+        "G",
+        "E",
+        "A"
+    ],
+    "analysis": "71．D  通过空格后的句子 Commonly  called  nonprofits , these  organizations  are \nprimarily  nongovernmental  service  providers 是讲一种不盈利的机构，前文讲述的\n是商业机构的目的是为了赚取利润 ，所以讲到两种不同的情况 ，因此可以推测空\n格处表达转折，且讲到不盈利的机构， 可以选 D．意为 \"这些机构仅仅是赚取它\n们自身运转的费用 \"；\n72．C  根据空格前面的内容讲的是不盈利机构 nonprofits ，可以推知接着是对不\n盈利机构进行举例， 故答案为 C；\n73．G 根据空格前面的内容 Business  management  is a term used to describe  the \ntechniques  of planning , direction , and control  of the operations  of a business．可知讲\n的是 \"商业管理 \"（Business  management ），空格后的内容是对三个方面进行阐述\n  ，空格的内容属于对 planning的阐述， 故答案为 G；\n74．E  根据空格前后的内容可知， 前面阐述了 planning，后面 the third…阐述了  \nthe control  of the operations  of a business（商业运作的控制 ）关系到所有部门的工\n作标准的建立（ The third  relates  to the establishment  of standards  of work  in all \ndepartments ），所以空格内容为 the second… ，用来阐述 direction 关系到部门对\n各项政策的实行（ the application  of these  policies  by departments ），故答案为 E；\n75．A  最后一点可以根据前一句推知，前面一句说明 \"导向主要涉及权威管理\n的引导和监管 \"（Direction  is concerned  primarily  with supervision  and guidance  by \nthe management  in authority），可推知 \"控制包括了报告和记录的作用 ﹣﹣用来对\n比实际工作与工作标准是否符合 \"．故答案为 A．\n",
+    "model_answer": [
+        "D",
+        "E",
+        "G",
+        "A",
+        "B"
+    ],
+    "model_output": "【答案】 D E G A B <eoa>"
+},
+{
+    "index": 3,
+    "year": "2014",
+    "category": "（新课标Ⅰ）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能填入空白处的最佳选项 ，选项中有\n两项为多余选项。  \nThe jobs of the future  have  not yet been  invented . 　 36   By helping  them  \ndevelop  classic  skills  that will serve  them  well no matter  what  the future  holds . \n1. Curiosity  \nYour  children  need  to be deeply  curious . 　 37   Ask kids, “What  ingredients （\n配料） can we add to make  these  pancakes  even  better  next time?” and then try them  \nout. Did those  ingredients  make  the pancakes  better ? What  could  we try next time? \n2. Creativity  \nTrue  creativity  is the ability  to take something  existing  and create  something  new \nfrom  it.  38   There  are a dozen  different  things  you can do with them . \nExperimenting  with materials  to create  something  new can go a long way in helping  \nthem  develop  their creativity . \n3. Personal  skills  \nUnderstanding  how others  feel can be a challenge  for kids. We know  what ’s \ngoing  on inside  our own head , but what  about  others ? Being  able to read people  helps  \nkid from  misreading  a situation  and jumping  to false  conclusions . 　 39  “Why  do \nyou think  she’s crying ?” “Can you tell how that man is feeling  by looking  at his \nface?” “If someone  were  to do that to you, how would  you feel?” \n4. Self Expression  \n 40   There  are many  ways  to express  thoughts  and ideas ---music , acting , \ndrawing , building , photography . You may find that your child  is attracted  by one \nmore  than another . \nA. Encourage  kids to cook  with you. \nB. And we can’t forget  science  education . \n  C. We can give kids chances  to think  about  materials  in new ways . \nD. We can do this in real life or ask questions  about  characters  in stories . \nE. Gardening  is another  great  activity  for helping  kids develop  this skill. \nF. So how can we help our kids prepare  for jobs that don’t yet exist ? \nG. Being  able to communicate  ideas  in a meaningful  way is a valuable  skill.\n",
+    "standard_answer": [
+        "F",
+        "A",
+        "C",
+        "D",
+        "G"
+    ],
+    "analysis": "36．F推理判断题．根据第一段中的 \"The  jobs of the future  have  not yet been  \ninvented\" 未来的工作还没有发明出来 ．所以我们也不知道它们究竟是什么样子的\n．我们能做的就是让我们的孩子练好技能 ，帮助他们发展最优秀的技能 ．所以上\n句应该怎样帮助为了他们未来的工作而做好准备． 故选 F．\n37．A 推理判断题 ．根据第二段中的 \"What  ingredients  （配料）can we add to make  \nthese  pancakes  even  better  next time?\"可知，做煎饼时添加什么配料会更好，讲述\n的是做饭 ．是一项基本的技能 ，我们要鼓励孩子和我们一起做饭 ，通过孩子的好\n奇心来培养这种基本的技能， 故选 A．\n38．C 推理判断题．根据第三段中 \"True  creativity  is the ability  to take something  \nexisting  and create  something  new\"可知，真正的创造能力是从现存的东西里创造\n出新的东西的能力 ．所以我们给孩子机会让他们用新的方法来考虑这些现有的事\n物，以此来培养他们的创造能力． 故选 C．\n39．D 推理判断题．根据第四段中的三个问题 \"Why  do you think  she’s crying ?\" \n\"Can  you tell how that man is feeling  by looking  at his face?\" \"If someone  were  to do \nthat to you, how would  you feel?可知，孩子怎样判断人的情感对他们来说是一个\n挑战，我们要让孩子思考别人的各种行为．以此培养他们理解他人思想的能力 ，\n所以问一下故事里的有关问题可以培养孩子这方面的能力． 故选 D．\n40．G 推理判断题．根据最后一段中的 \"music , acting , drawing , building , \nphotography\" 可知，这些都是我们表达自己思想的有效方法，能够让孩子有这些\n有效的方法进行表达思想也是一种很重要的技巧 ．我们要培养孩子这方面的能力\n．故选 G．\n",
+    "model_answer": [
+        "F",
+        "A",
+        "C",
+        "D",
+        "G"
+    ],
+    "model_output": "【答案】 F A C D G <eoa>"
+},
+{
+    "index": 4,
+    "year": "2014",
+    "category": "（新课标ⅱ）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能填入空白处的最佳选项 。选项中有\n两项为多余选项。  \nTips  for cooking  on a Tight  Schedule  \nFrom  my experience , there  are three  main  reasons  why people  don’t cook  more  \noften : ability , money  and time, 　 36  　 Money  is a topic  I’ll save for another  day. \nSo today  I want  to give you some  wisdom  about  how to make  the most  of the time \nyou spend  in the kitchen . Here  are three  tips for great  cooking  on a tight schedule : \n①Think  ahead . The moments  when  I think  cooking  is a pain are when  I’m \nalready  hungry  and there  is nothing  ready  to eat. So think  about  of the coming  week . \nWhen  will you have  time to cook ? Do you have  the right  materials  ready ? 　 37  　 \n②Make  your time worth  it. When  you do find time to cook  a meal , make  the \nmost  of it and save yourself  time later on. Are you making  one loaf of bread ? 　 38  　 \nit takes  around  the same  amount  of time to make  more  of something . So save yourself  \nthe effort  for a future  meal . \n③　 39  　 This may surprise  you, but one of the best tools  for making  \ncooking  worth  your time is experimentation . It gives  you the chance  to hit upon  new \nideas  and recipes  that can work  well with your appetite  and schedule . The more  you \nlearn  and the more  you try, the more  ability  you have  to take control  of your food and \nyour schedule . \nHopefully  that gives  you a good  start. 　 40  　 and don’t let a busy  schedule  \ndiscourage  you from  making  some  great  changes  in the way you eat and live! \n  A. Try new things  \nB. Ability  is easily  improved  \nC. Make  three  or four instead  \nD. Understand  your food better  \nE. Cooking  is a burden  for many  people  \nF. Let cooking  and living  simply  be a joy rather  than a burden  \nG. A little time planning  ahead  can save a lot of work  later on\n",
+    "standard_answer": [
+        "B",
+        "G",
+        "C",
+        "A",
+        "F"
+    ],
+    "analysis": "36．B 根据第一段中空格前 \"ability , money  and time\"及空格后句子 \"Money  is a \ntopic  I’ll save for another  day. So today  I want  to give you some  wisdom  about  how \n  to make  the most  of the time you spend  in the kitchen\"，可知，人们不经常做饭的三\n个主要原因是 ：能力、金钱和时间．钱的问题我改天说．今天我想给你们一些关\n于如何充分利用你在厨房的时间的聪明做法，能力很容易提高． 故选 B．\n37．G 根据第二段中 \"So think  about  of the coming  week . When  will you have  time to \ncook ? Do you have  the right  materials  ready ?\"可知，提前一周想好．在有空的时候\n准备好食材．提前用一点儿时间来规划未来可以节省以后的很多工作． 故选 G．\n38．C 根据第三段中 \"When  you do find time to cook  a meal , make  the most  of it and \nsave yourself  time later on. Are you making  one loaf of bread ?\"及\"it takes  around  the \nsame  amount  of time to make  more  of something . So save yourself  the effort  for a \nfuture  meal\"可知，做面包时 ，做三、四个而不是一个 ，可以给自己节省以后的时\n间．做一个和做三、四个面包所花费的时间差不多． 故选 C．\n39．A 根据第四段中 \"It gives  you the chance  to hit upon  new ideas  and recipes  that \ncan work  well with your appetite  and schedule . The more  you learn  and the more  you \ntry, the more  ability  you have  to take control  of your food and your schedule\" 可知，要\n敢于尝试 ，这样才会引起自己的食欲 ，才可以使自己用在做饭上的时间和努力值\n得．学得越多，尝试越多，控制食材和时间的能力就会越强． 故选 A．\n40．F 根据最后一段中 \"Hopefully  that gives  you a good  start\"及\"and don’t let a busy  \nschedule  discourage  you from  making  some  great  changes  in the way you eat and \nlive\"可知，希望这些建议能给你一个良好的开端 ，不要让繁忙的日程阻止你为了\n吃饭和生活所做的一些变化 ，让烹饪和生活成为一种快乐 ，而不是负担 ．故选 F\n．\n",
+    "model_answer": [
+        "E",
+        "G",
+        "C",
+        "A",
+        "F"
+    ],
+    "model_output": "【答案】 E G C A F <eoa>"
+},
+{
+    "index": 5,
+    "year": "2015",
+    "category": "（新课标Ⅰ）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能填入空白处的最佳选项 。选项中有\n两项为多余选项。   \nBuilding  Trust  in a Relationship  Again  \nTrust  is a learned  behavior  that we gain from  past experiences.  36.___________  \nTrust  is a risk. But you can’t  be successful  when  there’s  a lack of trust in a \nrelationship  that results  from  an action  where  the wrongdoer  takes  no responsibility  to \nfix the mistake.   \nUnfortunately,  we’ve  all been  victims  of betrayal.  Whether  we’ve  been  stolen  \nfrom,  lied to, misled,  or cheated  on, there  are different  levels  of losing  trust . \nSometimes  people  simply  can’t trust  anymore . 37. __________  It’s \nunderstandable,  but if you’re  willing  to build  trust in a relationship  again,  we have  \nsome  steps  you can take to get you there.   \n◆38. ___________  Having  confidence  in yourself  will help you make  better  \nchoices  because  you can see what  the best outcome  would  be for your well-being.   \n ◆39. ___________  If you’ve  been  betrayed,  you are the victim  of your \ncircumstance.  But there’s  a difference  between  being  a victim  and living  with a \n“victim  mentality ”. At some  point  in all of our lives,  we’ll  have  our trust tested  or \nviolated.   \n ◆You didn’t  lose “everything ”. Once  trust is lost, what  is left? Instead  of looking  \nat the situation  from  this hopeless  angle , look  at everything  you still have  and \nbe thankful  for all of the good  in your  life. 40. ___________  Instead,  it’s a \nhealthy  way to work  through  the experience  to allow  room  for positive  growth  and \n  forgiveness.   \nA. Learn  to really  trust yourself.   \nB. It is putting  confidence  in someone.   \nC. Stop regarding  yourself  as the victim.   \nD. Remember  that you can expect  the best in return.   \nE. They’ve  been  too badly  hurt and they can’t  bear to let it happen  again.   \nF. This knowledge  carries  over in their attitude  toward  their future  relationships.   \nG. Seeing  the positive  side of things  doesn’t  mean  you’re  ignoring  what  happened.\n",
+    "standard_answer": [
+        "B",
+        "E",
+        "A",
+        "C",
+        "G"
+    ],
+    "analysis": "36．B 根据后句 \"That  is a risk\"（那是一种冒险 ）可知，前文指的是某种行为， B\n项中 \"那就是对某人抱以信心 \"最符合语境， 故选 D．\n37．E 根据前句 \"Sometimes  people  simply  can’t trust anymore .\"可知，他们受到严\n重的伤害且不能忍受再次发生． 故选 E．\n38．A 根据后句可知，此段主要讲述要学会信任自己． 故选 A．\n39．C 根据后面可知，此段主要讲述不要认为自己是受害者． 故选 C．\n40．G 根据前一句和后一句可知，既要看到事情的积极面，也不要忽视所发生\n的事情． 故选 G．\n",
+    "model_answer": [
+        "A",
+        "C",
+        "E",
+        "G",
+        "F"
+    ],
+    "model_output": "【答案】 A C E G F <eoa>"
+},
+{
+    "index": 6,
+    "year": "2015",
+    "category": "（新课标ⅱ）",
+    "score": 2,
+    "question": "根据短文内容，从短文后的选项中选出能填入空白处的最佳选项。选项中有\n两项为多余选项。  \nTraining  for a marathon  requires  careful  preparation  and steady,  gradual  \nincreases  in the length  of the runs.  ___36___,  buy the best-fitting,  best-built  running  \nshoes  you can find. No one can say which  brand  will work  best for you or feel best on \nyour feet, so you have  to rely on your experience  and on the feel of each pair as you \nshop.  When  you have  found  shoes  that seem  right,  walk  in them  for a few days to \ndouble-check  the fit. ___37___.  As always,  you should  stretch  (伸展 ) at least ten \nminutes  before  each run to prevent  injuries.  \nDuring  the first week,  do not think  about  distance,  but run five minutes  longer  \neach day. ___38___,  it is wise to take a day off to rest. But during  the next week,  set a \ngoal of at least a mile and a half per run. ___39___.  After  two weeks,  start timing  \nyourself.  ___40___.  Depending  on the kind of race you plan to enter,you  can set up a \ntimetable  for the remaining  weeks  before  the race.  \nA. After  six days \nB. For a good  marathon  runner  \nC. Before  you begin  your training  \nD. With  each day, increase  the distance  by a half mile \nE. If they still feel good,you  can begin  running  in them  \nF. Time  spent  for preparation  raises  the quality  of training  \nG. Now  you are ready  to figure  out a goal of improving  distance  and time\n",
+    "standard_answer": [
+        "C",
+        "E",
+        "A",
+        "D",
+        "G"
+    ],
+    "analysis": "36. C 本题考查前后句子的联系， 根据后文 buy the best-fitting , best-built running  \nshoes  you can find. 可知需要买最好的配件，最好的运行鞋，这些都是开始训练\n之前要做的事情， 故选 C.\n37. E 本题考查前后句子的联系， 根据前文 When  you have  found  shoes  that seem  \nright , walk  in them  for a few days to double -check  the fit. 可知在鞋子看起来不错的\n时候要先穿几天感觉一下是否合适 ，如果他们仍然合适 ，那么就可以穿着它们开\n始跑步， 故选 E.\n38. A 本题考查前后句子的联系 ，根据前文 During  the first week , do not think  about  \ndistance , but run five minutes  longer  each day. 告诉我们在第一周不要考虑举例，\n每天多跑五分钟， 而后文 it is wise to take a day off to rest让我们有一天的休息，\n因此在六天之后我们要休息一天， 故选 A.\n39. D 本题考查前后句子的联系， 根据前文 But during  the next week , set a goal of \nat least a mile and a half per run. 可知在下一个星期要设定一个目标，每天增加一\n点距离， 故选 D.\n40. G 本题考查前后句子的联系， 根据后文 Depending  on the kind of race you plan \nto enter , you can set up a timetable  for the remaining  weeks  before  the race. 可知你可\n以自己制定自己的训练计划 ，说明已经准备好了一个改进距离和时间的目标 ，故\n选G.\n",
+    "model_answer": [
+        "C",
+        "E",
+        "D",
+        "F",
+        "G"
+    ],
+    "model_output": "【答案】 C E D F G <eoa>"
+},
+{
+    "index": 7,
+    "year": "2016",
+    "category": "（新课标Ⅰ）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能填入空白处的最佳选项 ，选项中有\n两项为多余选项。  \nSecret  codes  (密码 ) keep  messages  private . Banks,  companies,  and government  \nagencies  use secret  codes  in doing  business,  especially  when  information  is sent by \ncomputer.  \nPeople  have  used secret  codes  for thousands  of years.     36    Code  breaking  \nnever  lags (落后 ) far behind  code  making.  The science  of creating  and reading  coded  \nmessages  is called  cryptography.  \nThere  are three  main  types  of cryptography.     37    For example,  the first \nletters  of “My elephant  eats too many  eels”  spell out the hidden  message  “Meet  me.”  \n   38    You might  represent  each letter  with a number,  for example.  Let’s  \nnumber  the letters  of the alphabet,  in order,  from  1 to 26. If we substitute  a number  for \neach letter,  the message  “Meet  me” would  read “13 5 5 20 13 5.” \nA code  uses symbols  to replace  words,  phrases,  or sentences.  To read the \nmessage  of a real code,  you must  have  a code  book.     39    For example,  \n“bridge”  might  stand  for “meet”  and “out”  might  stand  for “me.”  The message  \n  “Bridge  out” would  actually  mean  “Meet  me.”     40    However,  it is also hard to \nkeep  a code  book  secret  for long.  So codes  must  be changed  frequently.  \nA. It is very hard to break  a code  without  the code  book.  \nB. In any language,  some  letters  are used more  than others.  \nC. Only  people  who know  the keyword  can read the message.  \nD. As long as there  have  been  codes,  people  have  tried to break  them.  \nE. You can hide a message  by having  the first letters  of each word  spell  it out. \nF. With  a code  book,  you might  write  down  words  that would  stand  for other  words.  \nG. Another  way to hide a message  is to use symbols  to stand  for specific  letters  of the \nalphabet.\n",
+    "standard_answer": [
+        "D",
+        "E",
+        "G",
+        "F",
+        "A"
+    ],
+    "analysis": "36．D本题考察是逻辑关系，根据下一句 \"code  breaking  never  lags behind  code  \nmaking\"可知上一句是只要出现密码，就会有人去解码， 选项 D中的 break与空\n格后面句中的 breaking构成一种复现； 故选 D．\n37．E 本题考察是句子之间的例证关系，从后面文章的举例中 \"For example , the \nfirst letters  are ‘My elephant  eats too many  eels’ spell  out the hidden  message  ‘Meet  \nme.’\"那么前一句应该是对例子的概括，即我们可以知道是运用每个单词的首字\n母来组成密码， E选项正确\n38．G 本题考察是文章的篇章结构，前一段是讲到了第一种方法，根据篇章结\n构，下一段应该是讲述第二种设置密码的方法 ，而根据该段的例子 ，即字母表中\n字母排列顺序转化成为数字信息， 所以这里关键词是 another  way 还有 alphabet，\n故选 G．\n39．F 本题考察的是逻辑关系，从上一句 \"To read the message  of a real code , you \nmust  have  a code  book\"你需要借用解码书来找出密码单词所对应真正意思， F选\n项表示你应该找出解码书中密码所代表的词语， 故F正确．\n40．A 本题考察的是关键词以及转折关系 ，根据下一句出现 \"it is also hard to keep  \na code  book  secret  for long,\"这里出现了 also hard，所以上一句关键词为 hard；另\n外however表示转折关系，证明上一句与下一句表达相对应； 故选 A．\n",
+    "model_answer": [
+        "D",
+        "E",
+        "F",
+        "G",
+        "A"
+    ],
+    "model_output": "【答案】 D E F G A <eoa>"
+},
+{
+    "index": 8,
+    "year": "2016",
+    "category": "（新课标ⅱ）",
+    "score": 2,
+    "question": "根据短文内容 ，从短文后的选项中选出能填入空白处的最佳选项 。选项中有\n两项为多余选项。  \nA garden  that’s  just right  for you \nHave  you ever visited  a garden  that seemed  just right  for you, where  the \natmosphere  of the garden  appeared  to total more  than the sum (总和 ) of its parts?     36   \n. But it doesn’t  happen  by accident.  It starts  with looking  inside  yourself  and \nunderstanding  who you are with respect  to the natural  world  and how you approach  \nthe gardening  process.  \n●   37    \nSome  people  may think  that a garden  is no more  than plants,  flowers,  patterns  \nand masses  of color.  Others  are concerned  about  using  gardening  methods  that require  \nless water  and fewer  fertilizers  (肥料 ).    38   . However,  there  are a number  of other  \nreasons  that might  explain  why you want  to garden.  One of them  comes  from  our \nearliest  years.  \n●Recall(回忆 ) your childhood  memories  \nOur model  of what  a garden  should  be often  goes back  to childhood.  Grandma’s  \nrose garden  and Dad’s  vegetable  garden  might  be good  or bad, but that’s  not what’s  \nimportant.     39    ― how being  in those  gardens  made  us feel. If you’d  like to \nbuild  a powerful  bond  with your garden,  start by taking  some  time to recall  the \ngardens  of your youth.     40   . Then  go outside  and work  out a plan to translate  \n  your childhood  memories  into your grown-up  garden.  Have  fun. \nA. Know  why you garden  \nB. Find a good  place  for your own garden  \nC. It’s our experience  of the garden  that matters  \nD. It’s delightful  to see so many  beautiful  flowers  \nE. Still others  may simply  enjoy  being  outdoors  and close  to plants  \nF. You can produce  that kind of magical  quality  in your own garden,  too \nG. For each of those  gardens,  write  down  the strongest  memory  you have\n",
+    "standard_answer": [
+        "F",
+        "A",
+        "E",
+        "C",
+        "G"
+    ],
+    "analysis": "36．F 文章前面说 Have  you ever visited  a garden  that seemed  just right  for you, \nwhere  the atmosphere  of the garden  appeared  to total more  than the sum（总和）  of \nits parts？你是否去过让你感觉不错的花园？ 那的感觉让人觉得超越了园子本身 ；\n后面说到 It starts  with looking  inside  yourself  and understanding  who you are with \nrespect  to the natural  world  and how you approach  the gardening  process．园艺不是\n心血来潮，而是一个人内心中对自然的敬畏． 故选 F．\n37．A 根据本段最后一句 However , there  are a number  of other  reasons  that might  \nexplain  why you want  to garden . One of them  comes  from  our earliest  years .\"然而，有\n很多能解释你为什么想做园艺的原因 \"可知我们首先要搞清楚为什么要做园艺，\n故选 A．\n38．E 本段前两句提出 Some  people  may think  that a garden  is no more  than plants , \nflowers , patterns  and masses  of color . Others  are concerned  about  using  gardening  \nmethods  that require  less water  and fewer  fertilizers （肥料） ．有些人认为花园只是\n一些花花草草 ，有些人关心少用水少用肥料 ．本句仍然在说明人们对园艺的不同\n  看法．故选 E．\n39．C 根据前句 Grandma ’s rose garden  and Dad’s vegetable  garden  might  be good  or \nbad, but that’s not what ’s important .\"…那些都不重要 \"可知这里强调的是在园艺中\n对我们来说真正重要的是什么． 故选 C．\n40．G 前面说 start by taking  some  time to recall  the gardens  of your youth．如果我\n们自己建一个花园 ，就可以回忆一下年轻的岁月 ．后面说 translate  your childhood  \nmemories  into your grown -up garden．儿时的记忆变成了一座长大成人后的园子 ．\n可知说的是园艺和记忆的关系， 故选 G．\n",
+    "model_answer": [
+        "F",
+        "A",
+        "C",
+        "E",
+        "G"
+    ],
+    "model_output": "【答案】 F A C E G <eoa>"
+},
+{
+    "index": 9,
+    "year": "2016",
+    "category": "（新课标ⅲ）",
+    "score": 2,
+    "question": "根据短文内容，从短文后的选项中选出能填入空白处的最佳选项。选项中有两项为多余选项。\nEveryone knows that fish is good for health.    36    But it seems that many people don’t cook fish at home. Americans eat only about fifteen pounds of fish per person per year, but we eat twice as much fish in restaurants as at home. Buying, storing, and cooking fish isn’t difficult.    37    This text is about how to buy and cook fish in an easy way.\n   38    Fresh fish should smell sweet: you should feel that you’re standing at the ocean’s edge. Any fishy or strong smell means the fish isn’t fresh.    39    When you have bought a fish and arrive home, you’d better store the fish in the refrigerator if you don’t cook it immediately, but fresh fish should be stored in your fridge for only a day or two. Frozen fish isn’t as tasty as the fresh one.\nThere are many common methods used to cook fish.    40    First, clean it and season it with your choice of spices (调料). Put the whole fish on a plate and steam it in a steam pot for 8 to 10 minutes if it weighs about one pound. (A larger one will take more time.) Then, it’s ready to serve.\nA. Do not buy it.\nB. The easiest is to steam it.\nC. This is how you can do it.\nD. It just requires a little knowledge.\nE. The fish will go bad within hours.\nF. When buying fish, you should first smell it.\nG. The fats in fish are thought to help prevent heart disease.\n",
+    "standard_answer": [
+        "G",
+        "D",
+        "F",
+        "A",
+        "B"
+    ],
+    "analysis": "【解答】GDFAB\n36．G．考查上下文串联．第一句Everyone knows that fish is good for health．是总写，but表示转折，说明but前面一句是对第一句的解释，G项\"鱼中的脂肪有助于心脏病符合语境．\n37．D考查上下文串联．题目前一句\"Buying, storing, and cooking fish isn’t difficult.\"可知，购买，存放和烧鱼并非难事，再根据后面一句可知，文章主要介绍了买鱼和烧鱼的简单知识，D项\"这仅仅需要一点知识\"符合语境，此题容易与C项混淆，C项后面应该直接跟烧鱼的方法，即C项与后一句重复，故选D．\n38．F考查上下文串联．根据\"Freshfish should smell sweet\"可知，本段讲的是买鱼的时候要闻一下鱼的气味，故选F．\n39．A考查上下文串联．根据前一句\"Any fishy or strong smell means thefish isn't fresh．\"可知，带有强烈的味道的鱼都不是新鲜的，不应该买这样的鱼，A项与后句联系紧密，故选A．\n40．B考查上下文串联．根据\"Put the whole fish on a plate and steam it in a steam pot\"可知，本段介绍的是蒸鱼的方法，故选B．\n",
+    "model_answer": [
+        "G",
+        "D",
+        "F",
+        "E",
+        "B"
+    ],
+    "model_output": "【答案】 G D F E B <eoa>"
+}
+]}

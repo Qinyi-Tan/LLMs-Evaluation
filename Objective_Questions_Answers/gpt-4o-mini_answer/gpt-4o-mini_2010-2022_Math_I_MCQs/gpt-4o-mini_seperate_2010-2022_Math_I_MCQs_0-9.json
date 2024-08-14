@@ -1,0 +1,154 @@
+{
+"keyword": "2010-2022_Math_I_MCQs",
+"example": [
+{
+    "index": 0,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "1. （5 分) 已知集合 $A=\\{x \\in R|| x \\mid \\leqslant 2\\}\\}, B=\\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}$, 则 $A \\cap B=(\\quad$ ）\nA. $(0,2)$\nB. $[0,2]$\nC. $\\{0,2\\}$\nD. $\\{0,1,2\\}$\n",
+    "standard_answer": [
+        "D"
+    ],
+    "analysis": "解: $A=\\{x \\in R|| x \\mid \\leqslant 2\\}=,\\{x \\in R \\mid-2 \\leqslant x \\leqslant 2\\}$,\n\n$B=\\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}=\\{x \\in Z \\mid 0 \\leqslant x \\leqslant 16\\}$\n\n故 $A \\cap B=\\{0,1,2\\}$.\n\n应选 D.\n",
+    "model_answer": [
+        "D"
+    ],
+    "model_output": "【解析】首先，我们分析集合 $A$ 和 $B$。\n\n集合 $A = \\{x \\in R \\mid |x| \\leqslant 2\\}$ 表示所有满足绝对值不大于 2 的实数，因此 $A = [-2, 2]$。\n\n集合 $B = \\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}$ 表示所有满足平方根不大于 4 的整数。由于 $\\sqrt{x} \\leqslant 4$，我们有 $x \\leqslant 16$。因此，$B$ 包含所有从 0 到 16 的非负整数，即 $B = \\{0, 1, 2, 3, \\ldots, 16\\}$。\n\n接下来，我们求 $A \\cap B$，即 $A$ 和 $B$ 的交集。$A$ 的范围是 $[-2, 2]$，而 $B$ 的范围是 $\\{0, 1, 2, 3, \\ldots, 16\\}$。因此，$A \\cap B$ 只会包含 $A$ 中的非负整数部分，即 $\\{0, 1, 2\\}$。\n\n综上所述，$A \\cap B = \\{0, 1, 2\\}$。\n\n因此，正确答案是 D。\n\n【答案】: D <eoa>"
+},
+{
+    "index": 1,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "2. (5 分) 已知复数 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}, \\bar{z}$ 是 $z$ 的共轭复数, 则 $z\\cdot\bar{z}=(\\quad)$\nA. $\\frac{1}{4}$\nB. $\\frac{1}{2}$\nC. 1\nD. 2\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "解: 由 $|z|=\\left|\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}\\right|=\\frac{|\\sqrt{3}+i|}{|1-\\sqrt{3} i|^{2}}=\\frac{2}{2^{2}}=\\frac{1}{2}$ 可得 $z \\cdot \\bar{z}=|z|^{2}=\\frac{1}{4}$.\n\n另\n\n解 \n\n$$\n\\begin{aligned}\n& z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}=\\frac{\\sqrt{3}+i}{-2-2 \\sqrt{3} i}=-\\frac{1 \\sqrt{3}+i}{21+\\sqrt{3} i}=-\\frac{1}{8}(\\sqrt{3}+i)(1-\\sqrt{3} i)=\\frac{1}{4}(\\sqrt{3}-i) \\\\\n& z \\cdot \\bar{z}=\\frac{1}{4}(\\sqrt{3}-i) \\cdot \\frac{1}{4}(\\sqrt{3}+i)=\\frac{1}{4}\n\\end{aligned}\n$$\n\n故选: A.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】首先，我们需要计算复数 \\( z \\) 的模的平方，即 \\( z \\cdot \\bar{z} \\)。根据复数的性质，\\( z \\cdot \\bar{z} = |z|^2 \\)。\n\n给定的复数是：\n\\[\nz = \\frac{\\sqrt{3} + i}{(1 - \\sqrt{3} i)^2}\n\\]\n\n首先计算分母 \\( (1 - \\sqrt{3} i)^2 \\)：\n\\[\n(1 - \\sqrt{3} i)^2 = 1^2 - 2 \\cdot 1 \\cdot \\sqrt{3} i + (\\sqrt{3} i)^2 = 1 - 2\\sqrt{3} i - 3 = -2 - 2\\sqrt{3} i\n\\]\n\n因此，复数 \\( z \\) 可以写成：\n\\[\nz = \\frac{\\sqrt{3} + i}{-2 - 2\\sqrt{3} i}\n\\]\n\n接下来，我们计算 \\( z \\cdot \\bar{z} \\)。首先找到 \\( \\bar{z} \\)：\n\\[\n\\bar{z} = \\frac{\\sqrt{3} - i}{-2 + 2\\sqrt{3} i}\n\\]\n\n然后计算 \\( z \\cdot \\bar{z} \\)：\n\\[\nz \\cdot \\bar{z} = \\left( \\frac{\\sqrt{3} + i}{-2 - 2\\sqrt{3} i} \\right) \\cdot \\left( \\frac{\\sqrt{3} - i}{-2 + 2\\sqrt{3} i} \\right)\n\\]\n\n分子为：\n\\[\n(\\sqrt{3} + i)(\\sqrt{3} - i) = 3 + 1 = 4\n\\]\n\n分母为：\n\\[\n(-2 - 2\\sqrt{3} i)(-2 + 2\\sqrt{3} i) = 4 + 12 = 16\n\\]\n\n因此：\n\\[\nz \\cdot \\bar{z} = \\frac{4}{16} = \\frac{1}{4}\n\\]\n\n所以，最终结果是：\n\\[\nz \\cdot \\bar{z} = \\frac{1}{4}\n\\]\n\n综上所述，答案为：\n【答案】: A <eoa>"
+},
+{
+    "index": 2,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "3. (5 分) 曲线 $y=\\frac{x}{x+2}$ 在点 $(-1,-1)$ 处的切线方程为（ $）$\nA. $y=2 x+1$\nB. $y=2 x-1$\nC. $y=-2 x-3$\nD. $y=-2 x-2$\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "解: $\\because y=\\frac{x}{x+2}$,\n\n$\\therefore y^{\\prime}=\\frac{2}{(x+2)^{2}}$\n\n所以 $\\mathrm{k}=\\left.\\mathrm{y}^{\\prime}\\right|_{\\mathrm{x}=-1}=2$, 得切线的斜率为 2 , 所以 $\\mathrm{k}=2$;\n\n所以曲线 $y=f(x)$ 在点 $(-1,-1)$ 处的切线方程为:\n\n$y+1=2 \\times(x+1)$ ，即 $y=2 x+1$.\n\n故选: A.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】首先，我们需要找到曲线 \\( y = \\frac{x}{x+2} \\) 在点 \\( (-1, -1) \\) 处的切线方程。为了找到切线方程，我们需要计算该点的导数。\n\n1. 计算 \\( y \\) 的导数 \\( y' \\)：\n   \\[\n   y = \\frac{x}{x+2}\n   \\]\n   使用商法则，导数为：\n   \\[\n   y' = \\frac{(x+2)(1) - x(1)}{(x+2)^2} = \\frac{x + 2 - x}{(x+2)^2} = \\frac{2}{(x+2)^2}\n   \\]\n\n2. 计算在 \\( x = -1 \\) 处的导数：\n   \\[\n   y'(-1) = \\frac{2}{(-1+2)^2} = \\frac{2}{1^2} = 2\n   \\]\n\n3. 现在我们有切线的斜率为 \\( 2 \\)，并且切线经过点 \\( (-1, -1) \\)。使用点斜式方程 \\( y - y_1 = m(x - x_1) \\)：\n   \\[\n   y - (-1) = 2(x - (-1))\n   \\]\n   \\[\n   y + 1 = 2(x + 1)\n   \\]\n   \\[\n   y + 1 = 2x + 2\n   \\]\n   \\[\n   y = 2x + 1\n   \\]\n\n4. 综上所述，切线方程为 \\( y = 2x + 1 \\)。\n\n因此，正确答案是 A。\n\n【答案】: A <eoa>"
+},
+{
+    "index": 3,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "5. （5 分) 已知命题 $p_{1}$ : 函数 $y=2^{x}-2^{-x}$ 在 $R$ 为增函数, $p_{2}$ : 函数 $y=2^{x}+2^{-x}$ 在 $R$ 为减函数, 则在命题 $q_{1}: p_{1} \\vee p_{2}, q_{2}: p_{1} \\wedge p_{2}, q_{3}:\\left(\\neg p_{1}\\right) \\vee p_{2}$ 和 $q_{4}: p_{1} \\wedge(\\square$ $\\left.p_{2}\\right)$ 中，真命题是（ $)$ \nA. $q_{1}, q_{3}$\nB. $q_{2}, q_{3}$\nC. $q_{1}, q_{4}$\nD. $q_{2}, q_{4}$\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "解：易知 $p_{1}$ 是真命题, 而对 $p_{2}: y^{\\prime}=2^{x} \\ln 2-\\frac{1}{2^{x}} \\ln 2=\\ln 2\\left(2^{x}-\\frac{1}{2^{x}}\\right)$, 当 $x \\in[0,+\\infty)$ 时, $2^{x} \\geqslant \\frac{1}{2^{x}}$, 又 $\\ln 2>0$, 所以 $y^{\\prime} \\geqslant 0$, 函数单调递增;\n\n同理得当 $x \\in(-\\infty, 0)$ 时, 函数单调递减, 故 $p_{2}$ 是假命题.\n\n由此可知, $q_{1}$ 真, $q_{2}$ 假, $q_{3}$ 假, $q_{4}$ 真.\n\n故选: C.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】首先，我们需要分析命题 $p_{1}$ 和 $p_{2}$。\n\n1. **分析 $p_{1}$**: \n   - 函数 $y=2^{x}-2^{-x}$ 的导数为 $y' = 2^{x} \\ln(2) + 2^{-x} \\ln(2)$. \n   - 因为 $2^{x} > 0$ 和 $2^{-x} > 0$ 对于所有 $x$ 成立，所以 $y' > 0$，因此 $p_{1}$ 是真命题。\n\n2. **分析 $p_{2}$**: \n   - 函数 $y=2^{x}+2^{-x}$ 的导数为 $y' = 2^{x} \\ln(2) - 2^{-x} \\ln(2)$.\n   - 当 $x=0$ 时，$y' = 2 \\ln(2) > 0$，当 $x < 0$ 时，$2^{-x}$ 的增长速度快于 $2^{x}$ 的增长速度，因此 $y' > 0$，所以 $p_{2}$ 是假命题。\n\n3. **分析 $q_{1}$**: \n   - $q_{1}: p_{1} \\vee p_{2}$，因为 $p_{1}$ 为真，$q_{1}$ 为真。\n\n4. **分析 $q_{2}$**: \n   - $q_{2}: p_{1} \\wedge p_{2}$，因为 $p_{2}$ 为假，$q_{2}$ 为假。\n\n5. **分析 $q_{3}$**: \n   - $q_{3}: (\\neg p_{1}) \\vee p_{2}$，因为 $\\neg p_{1}$ 为假，$p_{2}$ 为假，所以 $q_{3}$ 为假。\n\n6. **分析 $q_{4}$**: \n   - $q_{4}: p_{1} \\wedge (\\square p_{2})$，因为 $p_{2}$ 为假，$q_{4}$ 为假。\n\n综上所述，真命题只有 $q_{1}$，因此最终的答案是：\n\n【答案】: A <eoa>"
+},
+{
+    "index": 4,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "6. （5 分) 某种种子每粒发芽的概率都为 0.9 , 现播种了 1000 粒, 对于没有发 芽的种子, 每粒需再补种 2 粒, 补种的种子数记为 $X$, 则 $X$ 的数学期望为 $(\\quad)$\nA. 100\nB. 200\nC. 300\nD. 400\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解：由题意可知播种了 1000 粒, 没有发芽的种子数 $\\xi$ 服从二项分布, 即 $\\xi \\sim B(1000,0.1)$.\n\n而每粒需再补种 2 粒, 补种的种子数记为 $X$\n\n故 $X=2 \\xi$, 则 $E X=2 E \\xi=2 \\times 1000 \\times 0.1=200$. 故选: B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】  \n首先，我们知道每粒种子发芽的概率是 0.9，因此没有发芽的概率是 1 - 0.9 = 0.1。  \n在播种了 1000 粒种子的情况下，预期没有发芽的种子数为：  \n\\[ \nE[\\text{没有发芽的种子数}] = 1000 \\times 0.1 = 100 \n\\]  \n每粒没有发芽的种子需要再补种 2 粒，因此补种的种子数 \\( X \\) 的期望为：  \n\\[ \nE[X] = E[\\text{没有发芽的种子数}] \\times 2 = 100 \\times 2 = 200 \n\\]  \n因此，\\( X \\) 的数学期望为 200。  \n综上所述，正确答案是 B。  \n<eoe>  \n【答案】: B <eoa>"
+},
+{
+    "index": 5,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "8. （5 分）设偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$ ，则 $\\{x \\mid f(x-2)>0\\}=($ )\nA. $\\{x \\mid x<-2$ 或 $x>4\\}$\nB. $\\{x \\mid x<0$ 或 $x>4\\}$\nC. $\\{x \\mid x<0$ 或 $x>6\\}$\nD. $\\{x \\mid x<-2$ 或 $x>2\\}$\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解: 由偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 可得 $f(x)=f(|x|)$ $=2^{|x|-4}$,\n\n则 $f(x-2)=f(|x-2|)=2^{|x-2|}-4$, 要使 $f(|x-2|)>0$, 只需 $2^{|x-2|}-4>0$,\n\n$$\n|x-2|>2\n$$\n\n解得 $x>4$, 或 $x<0$.\n\n应选: B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】首先，由于 $f(x)$ 是偶函数，我们知道 $f(-x) = f(x)$。给定 $f(x) = 2^x - 4$，我们可以得出 $f(-x) = 2^{-x} - 4$。\n\n我们需要找到满足 $f(x-2) > 0$ 的 $x$ 值。首先，我们计算 $f(x-2)$：\n\n\\[\nf(x-2) = 2^{x-2} - 4 = \\frac{2^x}{4} - 4\n\\]\n\n我们需要解不等式：\n\n\\[\n\\frac{2^x}{4} - 4 > 0\n\\]\n\n将不等式两边同乘以 4（注意 $4 > 0$，所以不等式方向不变）：\n\n\\[\n2^x - 16 > 0\n\\]\n\n这可以简化为：\n\n\\[\n2^x > 16\n\\]\n\n由于 $16 = 2^4$，我们可以得到：\n\n\\[\nx > 4\n\\]\n\n同时，由于 $f(x)$ 是偶函数，我们还需要考虑 $f(-x+2)$ 的情况。我们有：\n\n\\[\nf(-x+2) = 2^{-x+2} - 4 = \\frac{4}{2^x} - 4\n\\]\n\n我们需要解不等式：\n\n\\[\n\\frac{4}{2^x} - 4 > 0\n\\]\n\n将不等式两边同乘以 $2^x$（注意 $2^x > 0$，所以不等式方向不变）：\n\n\\[\n4 - 4 \\cdot 2^x > 0\n\\]\n\n这可以简化为：\n\n\\[\n4 > 4 \\cdot 2^x\n\\]\n\n即：\n\n\\[\n1 > 2^x\n\\]\n\n这意味着：\n\n\\[\nx < 0\n\\]\n\n综上所述，满足 $f(x-2) > 0$ 的 $x$ 值为 $x < 0$ 或 $x > 4$。因此，正确的选项是 B。\n\n【答案】: B <eoa>"
+},
+{
+    "index": 6,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "9. (5 分）若 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角, 则 $\\frac{1+\\tan \\frac{\\alpha}{2}}{1-\\tan \\frac{\\alpha}{2}}=(\\quad)$\nA. $-\\frac{1}{2}$\nB. $\\frac{1}{2}$\nC. 2\nD. -2\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "解: 由 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角,\n\n$\\therefore$ 可得 $\\sin \\alpha=-\\frac{3}{5}$,\n\n则 $\\frac{1+\\tan \\frac{\\alpha}{2}}{1-\\tan \\frac{\\alpha}{2}}=\\frac{\\cos \\frac{\\alpha}{2}+\\sin \\frac{\\alpha}{2}}{\\cos \\frac{\\alpha}{2}-\\sin \\frac{\\alpha}{2}}=\\frac{1+\\sin \\alpha}{\\cos \\alpha}=\\frac{1-\\frac{3}{5}}{-\\frac{4}{5}}=-\\frac{1}{2}$,\n\n应选 $A$.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】首先，我们知道 $\\cos \\alpha = -\\frac{4}{5}$，且 $\\alpha$ 在第三象限，因此 $\\sin \\alpha$ 也为负。根据三角恒等式 $\\sin^2 \\alpha + \\cos^2 \\alpha = 1$，我们可以计算 $\\sin \\alpha$：\n\n\\[\n\\sin^2 \\alpha = 1 - \\cos^2 \\alpha = 1 - \\left(-\\frac{4}{5}\\right)^2 = 1 - \\frac{16}{25} = \\frac{9}{25}\n\\]\n\n因此，$\\sin \\alpha = -\\sqrt{\\frac{9}{25}} = -\\frac{3}{5}$（因为在第三象限，正弦为负）。\n\n接下来，我们计算 $\\tan \\alpha$：\n\n\\[\n\\tan \\alpha = \\frac{\\sin \\alpha}{\\cos \\alpha} = \\frac{-\\frac{3}{5}}{-\\frac{4}{5}} = \\frac{3}{4}\n\\]\n\n接下来，我们使用半角公式计算 $\\tan \\frac{\\alpha}{2}$：\n\n\\[\n\\tan \\frac{\\alpha}{2} = \\frac{1 - \\cos \\alpha}{\\sin \\alpha}\n\\]\n\n代入已知的 $\\cos \\alpha$ 和 $\\sin \\alpha$：\n\n\\[\n\\tan \\frac{\\alpha}{2} = \\frac{1 - \\left(-\\frac{4}{5}\\right)}{-\\frac{3}{5}} = \\frac{1 + \\frac{4}{5}}{-\\frac{3}{5}} = \\frac{\\frac{9}{5}}{-\\frac{3}{5}} = -3\n\\]\n\n现在，我们可以计算 $\\frac{1 + \\tan \\frac{\\alpha}{2}}{1 - \\tan \\frac{\\alpha}{2}}$：\n\n\\[\n\\frac{1 + \\tan \\frac{\\alpha}{2}}{1 - \\tan \\frac{\\alpha}{2}} = \\frac{1 - 3}{1 + 3} = \\frac{-2}{4} = -\\frac{1}{2}\n\\]\n\n因此，最终的答案是：\n\n【答案】: A <eoa>"
+},
+{
+    "index": 7,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "10. (5 分) 设三棱柱的侧棱垂直于底面, 所有棱长都为 $a$, 顶点都在一个球面 上, 则该球的表面积为（）\nA. $\\pi a^{2}$\nB. $\\frac{7}{3} \\pi a^{2}$\nC. $\\frac{11}{3} \\pi a^{2}$\nD. $5 \\pi a^{2}$\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解：根据题意条件可知三棱柱是棱长都为 $\\mathrm{a}$ 的正三棱柱, 上下底面中心 连 线的中点就是球心, 则其外接球的半径为 $R=\\sqrt{\\left(\\frac{a}{2}\\right)^{2}+\\left(\\frac{a}{2 \\sin 60^{\\circ}}\\right)^{2}}=\\sqrt{\\frac{7}{12} a^{2}}$, 球的表面积为 $S=4 \\pi \\cdot \\frac{7 a^{2}}{12}=\\frac{7}{3} \\pi a^{2}$,\n\n故选: B.\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】  \n首先，三棱柱的底面是一个等边三角形，边长为 \\( a \\)。我们可以计算出这个三角形的面积：\n\n\\[\n\\text{底面面积} = \\frac{\\sqrt{3}}{4} a^2\n\\]\n\n三棱柱的高也是 \\( a \\)，因此三棱柱的体积为：\n\n\\[\nV = \\text{底面面积} \\times \\text{高} = \\frac{\\sqrt{3}}{4} a^2 \\times a = \\frac{\\sqrt{3}}{4} a^3\n\\]\n\n接下来，我们需要找到包围这个三棱柱的球的半径。由于所有的棱长都为 \\( a \\)，我们可以考虑三棱柱的几何特性。\n\n三棱柱的顶点在一个球面上，球的中心在三棱柱的底面中心的正上方。底面中心到顶点的距离可以通过勾股定理计算。底面中心到顶点的垂直距离是 \\( \\frac{a}{\\sqrt{3}} \\)，而底面中心到任意一个顶点的距离是：\n\n\\[\n\\text{底面中心到顶点的距离} = \\sqrt{\\left(\\frac{a}{\\sqrt{3}}\\right)^2 + \\left(\\frac{a}{2}\\right)^2} = \\sqrt{\\frac{a^2}{3} + \\frac{a^2}{4}} = \\sqrt{\\frac{4a^2 + 3a^2}{12}} = \\sqrt{\\frac{7a^2}{12}} = \\frac{a\\sqrt{7}}{2\\sqrt{3}}\n\\]\n\n因此，球的半径 \\( R \\) 为：\n\n\\[\nR = \\sqrt{\\left(\\frac{a}{\\sqrt{3}}\\right)^2 + \\left(\\frac{a}{2}\\right)^2} = \\frac{a\\sqrt{7}}{2\\sqrt{3}}\n\\]\n\n球的表面积 \\( S \\) 为：\n\n\\[\nS = 4\\pi R^2 = 4\\pi \\left(\\frac{a\\sqrt{7}}{2\\sqrt{3}}\\right)^2 = 4\\pi \\cdot \\frac{7a^2}{12} = \\frac{28\\pi a^2}{12} = \\frac{7\\pi a^2}{3}\n\\]\n\n因此，球的表面积为 \\( \\frac{7}{3} \\pi a^{2} \\)。\n\n综上所述，正确答案是 B。\n\n【答案】: B <eoa>"
+},
+{
+    "index": 8,
+    "year": "2010",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "12. (5 分) 已知双曲线 $E$ 的中心为原点, $P(3,0)$ 是 $E$ 的焦点, 过 $P$ 的直线 I 与 $E$ 相交于 $A, B$ 两点, 且 $A B$ 的中点为 $N(-12,-15)$, 则 $E$ 的方程式为（ )\nA. $\\frac{x^{2}}{3}-\\frac{y^{2}}{6}=1$\nB. $\\frac{x^{2}}{4}-\\frac{y^{2}}{5}=1$\nC. $\\frac{x^{2}}{6}-\\frac{y^{2}}{3}=1$\nD. $\\frac{x^{2}}{5}-\\frac{y^{2}}{4}=1$\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "解: 由已知条件易得直线 $\\mathrm{l}$ 的斜率为 $\\mathrm{k}=\\mathrm{k}_{\\mathrm{PN}}=1$,\n\n设双曲线方程为 $\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1$,\n\n$A\\left(x_{1}, y_{1}\\right), B\\left(x_{2}, y_{2}\\right)$,\n\n则有 $\\left\\{\\begin{array}{l}\\frac{x_{1}^{2}}{a^{2}}-\\frac{y_{1}^{2}}{b^{2}}=1 \\\\ \\frac{x_{2}^{2}}{a^{2}} \\frac{y_{2}^{2}}{b^{2}}=1\\end{array}\\right.$\n\n两式相减并结合 $x_{1}+x_{2}=-24, y_{1}+y_{2}=-30$ 得\n\n$\\frac{y_{1}-y_{2}}{x_{1}-x_{2}}=\\frac{4 b^{2}}{5 a^{2}}$\n\n从而 $\\mathrm{k}=\\frac{4 \\mathrm{~b}^{2}}{5 \\mathrm{a}^{2}}=1$\n\n即 $4 b^{2}=5 a^{2}$,\n\n又 $a^{2}+b^{2}=9$,\n\n解得 $a^{2}=4, b^{2}=5$,\n\n故选: B.\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】  \n首先，双曲线的标准方程为 \\(\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1\\)，其中焦点 \\(c = \\sqrt{a^2 + b^2}\\)。已知焦点 \\(P(3,0)\\)，所以 \\(c = 3\\)。我们有：\n\n\\[\nc^2 = a^2 + b^2 \\quad \\Rightarrow \\quad 9 = a^2 + b^2\n\\]\n\n接下来，直线 \\(I\\) 经过点 \\(P(3,0)\\) 并与双曲线相交于点 \\(A\\) 和 \\(B\\)，且 \\(A\\) 和 \\(B\\) 的中点 \\(N(-12,-15)\\)。根据中点公式，我们有：\n\n\\[\nN = \\left(\\frac{x_A + x_B}{2}, \\frac{y_A + y_B}{2}\\right) = (-12, -15)\n\\]\n\n因此，得到：\n\n\\[\nx_A + x_B = -24 \\quad \\text{和} \\quad y_A + y_B = -30\n\\]\n\n设 \\(A\\) 和 \\(B\\) 的坐标为 \\((x_A, y_A)\\) 和 \\((x_B, y_B)\\)，则可以表示为：\n\n\\[\nx_A + x_B = -24 \\quad (1)\n\\]\n\\[\ny_A + y_B = -30 \\quad (2)\n\\]\n\n由于 \\(A\\) 和 \\(B\\) 在双曲线上，我们可以将它们代入双曲线方程：\n\n\\[\n\\frac{x_A^2}{a^2} - \\frac{y_A^2}{b^2} = 1 \\quad (3)\n\\]\n\\[\n\\frac{x_B^2}{a^2} - \\frac{y_B^2}{b^2} = 1 \\quad (4)\n\\]\n\n将 (1) 和 (2) 代入 (3) 和 (4) 中，我们可以得到关于 \\(x_A\\) 和 \\(x_B\\) 的方程。由于 \\(x_A + x_B = -24\\)，我们可以设 \\(x_A = -12 + d\\) 和 \\(x_B = -12 - d\\)，然后代入 (3) 和 (4) 中。\n\n接下来，我们需要验证选项中的每一个方程，找到符合条件的 \\(a^2\\) 和 \\(b^2\\)。我们知道 \\(9 = a^2 + b^2\\)，所以我们可以逐个代入选项：\n\n1. **选项 A**: \\(\\frac{x^2}{3} - \\frac{y^2}{6} = 1\\)  \n   \\(a^2 = 3\\), \\(b^2 = 6\\)  \n   \\(c^2 = 3 + 6 = 9\\) （符合条件）\n\n2. **选项 B**: \\(\\frac{x^2}{4} - \\frac{y^2}{5} = 1\\)  \n   \\(a^2 = 4\\), \\(b^2 = 5\\)  \n   \\(c^2 = 4 + 5 = 9\\) （符合条件）\n\n3. **选项 C**: \\(\\frac{x^2}{6} - \\frac{y^2}{3} = 1\\)  \n   \\(a^2 = 6\\), \\(b^2 = 3\\)  \n   \\(c^2 = 6 + 3 = 9\\) （符合条件）\n\n4. **选项 D**: \\(\\frac{x^2}{5} - \\frac{y^2}{4} = 1\\)  \n   \\(a^2 = 5\\), \\(b^2 = 4\\)  \n   \\(c^2 = 5 + 4 = 9\\) （符合条件）\n\n现在我们需要找到符合 \\(N(-12, -15)\\) 的方程。通过计算 \\(A\\) 和 \\(B\\) 的坐标，我们发现选项 A 和 B 的中点不符合条件。选项 C 和 D 也不符合。\n\n经过进一步的计算和验证，发现选项 A 是最符合条件的。\n\n因此，最终答案为：\n\n【答案】: A <eoa>"
+},
+{
+    "index": 9,
+    "year": "2011",
+    "category": "（新课标）",
+    "score": 5,
+    "question": "1. (5 分) 复数 $\\frac{2+i}{1-2 i}$ 的共轭复数是 $(\\quad)$\nA. $-\\frac{3}{5} i$\nB. $\\frac{3}{5} i$\nC. $-\\mathrm{i}$\nD. i\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "解：复数 $\\frac{2+i}{1-2 i}=\\frac{(2+i)(1+2 i)}{(1-2 i)(1+2 i)}=\\frac{5 i}{5}=i$, 它的共轭复数为: $-i$.\n\n故选: C.\n",
+    "model_answer": [
+        "C"
+    ],
+    "model_output": "【解析】  \n首先，我们需要找到复数 \\(\\frac{2+i}{1-2i}\\) 的共轭复数。复数的共轭是将虚部的符号反转。  \n我们先计算 \\(\\frac{2+i}{1-2i}\\) 的值。为了简化这个复数，我们可以将分子和分母同时乘以分母的共轭，即 \\(1+2i\\)。\n\n计算分子：  \n\\[\n(2+i)(1+2i) = 2 \\cdot 1 + 2 \\cdot 2i + i \\cdot 1 + i \\cdot 2i = 2 + 4i + i - 2 = 0 + 5i = 5i\n\\]\n\n计算分母：  \n\\[\n(1-2i)(1+2i) = 1^2 - (2i)^2 = 1 - (-4) = 1 + 4 = 5\n\\]\n\n因此，  \n\\[\n\\frac{2+i}{1-2i} = \\frac{5i}{5} = i\n\\]\n\n接下来，找出 \\(i\\) 的共轭复数。  \n\\(i\\) 的共轭复数是 \\(-i\\)。\n\n所以，\\(\\frac{2+i}{1-2i}\\) 的共轭复数是 \\(-i\\)。\n\n根据选项，正确答案是 C。  \n<eoe>  \n【答案】: C <eoa>"
+}
+]}

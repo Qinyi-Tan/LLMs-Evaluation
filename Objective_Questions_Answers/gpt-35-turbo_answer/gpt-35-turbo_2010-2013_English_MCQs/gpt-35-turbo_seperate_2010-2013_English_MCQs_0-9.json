@@ -1,0 +1,154 @@
+{
+"keyword": "2010-2013_English_MCQs",
+"example": [
+{
+    "index": 0,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "21. --- Have  you finished  reading  Jane  Eyre ? \n--- No, I        my homework  all day yesterday . \nA. was doing  B. would  do C. had done  D. do\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "【解答】 答案 A． was/were  doing，表示过去的某个时间点或时间段正在做某事\n，根据句意，我没有读完简爱，我昨天一天一直在写家庭作业． 故选 A． \n【点评】\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】根据句子结构，第一句是过去完成时，第二句应该是过去进行时，表示在过去某一时间正在进行的动作，因此选用was doing。\n\n【答案】A <eoa>"
+},
+{
+    "index": 1,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "22. The workers      the glasses  and marked  on each box “This Side UP”. \nA. carried  B. delivered  C. pressed  D. packed\n",
+    "standard_answer": [
+        "D"
+    ],
+    "analysis": "【解答】 答案 D． carry\"拿，携带 \"；deliver\"递送，发表，给 …接生 \"；press\"压\"\n；pack\"包装 \"．根据常识和句意，先把玻璃杯 \"包装起来 \"再标上 \"此面朝上 \"．故\n  选D． \n【点评】\n",
+    "model_answer": [
+        "D"
+    ],
+    "model_output": "【解析】根据句子意思，工人们拿着玻璃杯并在每个盒子上标记“此面向上”，因此应该是在打包过程中进行的。选项中，只有D. packed（打包）符合语境。A. carried（搬运）和B. delivered（递送）都不符合，C. pressed（按压）更不相关。\n\n【答案】D <eoa>"
+},
+{
+    "index": 2,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "23. I’ll spend  half of my holiday  practicing  English  and      half learning  drawing . \nA. another  B. the other  C. other ’s D. other\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "【解答】 答案 B．本题主要考查代词． 选项 A another  3个及 3个以上中的另一\n个；选项 B the other两个中的另一个 ；选项 C other ’s 一般没有这种说法 ；选项 D \nother其它的．根据句意，应该是两个中的另一个， 故选 B． \n【点评】\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】根据句意，这个人的假期会分成两半，一半练习英语，另一半学习画画。句子中需要一个代替“另一半”的词，而且需要用定冠词“the”来表示这个代词是特指的。因此，选项B“the other”符合要求，表示“剩下的那一半”。选项A“another”表示“另一个”，但是没有表示特指的定冠词“the”，所以不符合要求。选项C“other’s”是名词所有格，不符合句子结构。选项D“other”没有表示特指的定冠词“the”，也不符合要求。因此，答案为B。\n【答案】B <eoa>"
+},
+{
+    "index": 3,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "24. As a child , Jack studied  in a village  school ,       is named  after his grandfather . \nA. which  B. where  C. what  D. that\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "【解答】答案： A． 题干中含有的从句是非限制性的定语从句， 所以不能用 that\n，what不能引导定语从句， 故排除 C，从句中缺少主语，应该用关系代词，所\n以排除 where．所以本题选 A． \n【点评】\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】根据句子结构可知，空格后面是一个非限制性定语从句，用来修饰前面的名词“village school”，因此需要用关系代词。又因为该从句中缺少主语，所以需要用关系代词作为主语，因此选项A和D可以排除。选项C中的“what”不能用来引导定语从句，因此也可以排除。因此正确答案为B。\n\n【答案】B <eoa>"
+},
+{
+    "index": 4,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "25. Mary  made  coffee         her guests  were  finishing  their meal . \nA. so that B. although  C. while  D. as if\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "【解答】 答案 C．本题考查连词． 选项 A so that 以便，为了，用来引导目的状\n语从句； 选项 B although 尽管；选项 C while在…期间，当 …时候，用来引导时\n间状语从句； 选项 D as if（=as though）仿佛，好像，用来引导方式状语从句．\n通过句意可知 C项正确．  \n【点评】\n",
+    "model_answer": [
+        "C"
+    ],
+    "model_output": "【解析】这是一个复合句，前面是主句，后面是从句。主句是“Mary made coffee”，从句是“her guests were finishing their meal”。从句中的动作和主句中的动作同时发生，因此需要用连词表示同时性。选项中只有C选项“while”表示同时性，其他选项的意思和语法都不符合句意。\n\n因此，正确答案为：\n\n【答案】C <eoa>"
+},
+{
+    "index": 5,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "26. I have  seldom  seen my mother       pleased  with my progress  as she is now. \nA. so B. very  C. too D. rather\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "【解答】 答案： A  如此满意的语义， 只有 so pleased…as  能表达出来吧， as是\n像…一样， too表示 \"太…\"，rather  确实满意，像现在一样对我确实满意，这样\n的表达不符语境． 所以选择 A． \n【点评】\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】根据句意，母亲很少对我的进步感到高兴，现在却很高兴，所以需要用到“so”表示“如此”。 \nA. so 正确 \nB. very 不合适，very不能修饰形容词 \nC. too 不合适，too表示“太”，表示程度过高 \nD. rather 不合适，rather表示“相当”，表示程度不够 \n【答案】A <eoa>"
+},
+{
+    "index": 6,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "27. Mrs. White  showed  her students  some  old maps     from  the library . \nA. to borrow     B. to be borrowed      C. borrowed      D. borrowing\n",
+    "standard_answer": [
+        "C"
+    ],
+    "analysis": "【解答】答案 C． from  the library做后置定语， 修饰 old maps  根据句意， borrow\n与old maps  之间是被动关系，所以用过去分词表示被动或完成， 故选 C． \n【点评】\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】这是一个复合结构，主句是Mrs. White showed，宾语是some old maps，从句是从the library引出的定语从句，修饰maps。定语从句中缺少谓语，需要用不定式来完成。根据句意，应该用不定式表示Mrs. White展示这些地图的目的，而不是表示这些地图的状态或者Mrs. White借阅这些地图的情况。因此，选用不定式的主动形式，表示目的。\n【答案】B. to be borrowed <eoa>"
+},
+{
+    "index": 7,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "28. When  you are home , give a call to let me know  you        safely . \nA. are arriving  B. have  arrived  C. had arrived  D. will arrive\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "【解答】 答案 B．本题主要考查动词时态．根据题意可知，这里要表达 \"回家后\n打电话确认已经安全到达 \"，所以应该用现在完成时 ，答案为 B项．A项和 D项\n均表示将来，没有 \"完成 \"之意，所以排除 ；C项为过去完成时，不符合题意，所\n以排除． 故选 B． \n【点评】\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】根据句子结构可知，这是一个复合句，主句为“give a call to let me know”，从句为“you ___ safely”，从句中缺少谓语动词，因此需要用到完成时态。又因为“give a call”发生在“you ___ safely”之前，所以应该用完成时的完成时态，即“have arrived”。\n\n【答案】B <eoa>"
+},
+{
+    "index": 8,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "29. Just be patient . You       expect  the world  to change  so soon . \nA. can’t B. needn ’t C. may not D. will not\n",
+    "standard_answer": [
+        "A"
+    ],
+    "analysis": "【解答】 答案 A． can't \"不能，不可能 \"；needn't  \"不需要，没必要 \"；may \"一般\n用于肯定句中 ，表示可能 \"；will \"意愿或习惯性动作 \"．根据句意 ，要耐心点 ，你\n\"不能 \"期望世界变得如此之快， 故选 A． \n【点评】\n",
+    "model_answer": [
+        "A"
+    ],
+    "model_output": "【解析】根据句意“要有耐心，你不能期望世界会这么快改变。”可知，不能期望世界会这么快改变，因此选项中需要表示否定意义的词语。can't表示“不能”，needn't表示“不需要”，may not表示“可能不会”，will not表示“不会”。根据句意，选项A最符合题意。\n\n【答案】A <eoa>"
+},
+{
+    "index": 9,
+    "year": "2010",
+    "category": "（新课标Ⅰ）",
+    "score": 1,
+    "question": "30. The little boy won’t go to sleep      his mother  tells him a story . \n  A. or B. unless  C. but D. whether\n",
+    "standard_answer": [
+        "B"
+    ],
+    "analysis": "【解答】 答案 B．本题主要考查连词， unless  引导条件状语从句，意思是除非 ，\n如果不 =\"if not\"； A or 或，或者；还是；不然，否则；  C but但是，表转折； D \nwhether  是否、不管 …（还是 …）习惯用语 whether  or not．根据句意， 应该选 B\n． \n【点评】\n",
+    "model_answer": [
+        "B"
+    ],
+    "model_output": "【解析】这是一个表示条件的句子，前后两个分句之间存在条件关系。前半句表示条件，后半句表示结果。根据语境，表示“除非”意思的unless符合题意。因此，选B。\n【答案】B <eoa>"
+}
+]}
