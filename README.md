@@ -1,5 +1,5 @@
 # LLMs-Evaluation
-LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型针对不同学科的做题能力。
+LLMs-Evaluation介绍了如何将何将LLMs、Azure OpenAI服务和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型针对不同学科的做题能力。
 *（该项目需要用户先自行克隆GaoKao-Bench仓库）*
 
 # 说明
