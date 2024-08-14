@@ -1,5 +1,5 @@
 # LLMs-Evaluation
-LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型的做题能力。
+LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型针对不同学科的做题能力。
 *（该项目需要用户先自行克隆GaoKao-Bench仓库）*
 
 # 说明
@@ -26,7 +26,7 @@ LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[Gao
 
 7. 缩小数据集
 
-**修改完成，可对比gpt-4o-mini与gpt-35-turbo的做题能力**(（gpt-4o也用作测试，然而数据不全不作详细对比）)
+**修改完成，可对比不同大语言模型的做题能力**
 
 # 测评结果
 *（本项目测评的题目均为客观题）*
