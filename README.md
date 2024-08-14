@@ -29,7 +29,7 @@ LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[Gao
 **修改完成，可对比gpt-4o-mini与gpt-35-turbo的做题能力**(（gpt-4o也用作测试，然而数据不全不作详细对比）)
 
 # 测评结果
-*均为客观题*
+*（本项目测评的题目均为客观题）*
 
 获得不同大语言模型做不同学科的题目的正确率为
 ![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Results_Charts/Different_Subjects.png)
@@ -38,4 +38,4 @@ LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[Gao
 ![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Results_Charts/Arts_vs_Sciences.png)
 
 # 致谢
-非常感谢
+非常感谢GaoKao-Bench项目开源者@Zong Yi@piglaker@chunyang Li
