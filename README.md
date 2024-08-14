@@ -3,7 +3,7 @@ LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[Gao
 *该项目需要用户先自行克隆GaoKao-Bench仓库*
 
 # 说明
-**以下将逐步展示本项目如何修改原代码的部分，完整流程可至[Tutorial.pdf](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Tutorial.pdf)中查看**
+**以下将逐步展示本项目修改原代码的部分，完整流程可至[Tutorial.pdf](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Tutorial.pdf)中查看**
 
 1. 在vscode中打开GaoKao-Bench项目，在openai_gpt4.py中更改引用包的函数为AzureOpenAI、更改base_url
 ![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph1.png)
@@ -24,4 +24,18 @@ LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[Gao
 6. 在objective_bench.py中写入需要测试的LLM（可以任意选择Azure AI Studio中的基本模型），以gpt-4o为例
 ![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph6.png)
 
-**修改完成**
+7. 缩小数据集
+
+**修改完成，可对比gpt-4o-mini与gpt-35-turbo的做题能力**(（gpt-4o也用作测试，然而数据不全不作详细对比）)
+
+# 测评结果
+*均为客观题*
+
+获得不同大语言模型做不同学科的题目的正确率为
+![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Results_Charts/Different_Subjects.png)
+
+将学科分类为文理科后，获得数据
+![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Results_Charts/Arts_vs_Sciences.png)
+
+# 致谢
+非常感谢
