@@ -3,7 +3,7 @@ LLMs-Evaluation介绍了如何将何将各种LLMs、Azure OpenAI服务，和[Gao
 *该项目需要用户先自行克隆GaoKao-Bench仓库*
 
 # 说明
-**以下将逐步说明本项目如何修改原代码**
+**以下将逐步展示本项目如何修改原代码的部分，完整流程可至[Tutorial.pdf](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Tutorial.pdf)中查看**
 
 1. 在vscode中打开GaoKao-Bench项目，在openai_gpt4.py中更改引用包的函数为AzureOpenAI、更改base_url
 ![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph1.png)
