@@ -1,5 +1,7 @@
 # 介绍
-LLMs-Evaluation介绍了如何将何将LLMs、Azure OpenAI服务和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型针对不同学科的做题能力。
+对于小白来说，对于“如何让大语言模型做题”脑海中呈现出的便是用户自己一题一题地输入给LLM；然而，对于程序员来说，该如何让它自动地读取题库、进而测评呢？
+
+LLMs-Evaluation具体介绍了如何将何将LLMs、Azure OpenAI服务和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型针对不同学科的做题能力。
 
 # 说明
 ## 调用Azure OpenAI服务
@@ -107,7 +109,7 @@ def choice_test_changed(**kwargs):
     model_name = "gpt-4o"
 ```
 
-8. 缩小数据集（[这里](https://github.com/Qinyi-Tan/LLMs-Evaluation/tree/main/Data/Objective_Questions)可见）
+8. 缩小数据集为数学（单选20题）、生物（单选10题）、政治（单选10题）、物理（多选10题）、化学（单选10题）、英语（单选10题+七选五50题）、语文（单选10题）、地理（单选14题），以及历史（单选2题）（[这里](https://github.com/Qinyi-Tan/LLMs-Evaluation/tree/main/Data/Objective_Questions)可见）
 
 **修改完成，可对比不同大语言模型的做题能力**
 
@@ -156,4 +158,4 @@ def choice_test_changed(**kwargs):
    ③总体来看，gpt-4o在理科方面表现最佳，gpt-4o-mini次之，最后是gpt-35-turbo
 
 # 致谢
-
+非常感谢GaoKao-Bench项目开源者@Zong Yi@piglaker@chunyang Li
