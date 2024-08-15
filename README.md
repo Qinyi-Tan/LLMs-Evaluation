@@ -1,6 +1,5 @@
 # 介绍
 对于小白来说，对于“如何让大语言模型做题”脑海中呈现出的便是用户自己一题一题地输入给LLM；然而，对于程序员来说，该如何让它自动地读取题库、进而测评呢？
-
 LLMs-Evaluation具体介绍了如何将何将LLMs、Azure OpenAI服务和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型针对不同学科的做题能力。
 
 # 说明
