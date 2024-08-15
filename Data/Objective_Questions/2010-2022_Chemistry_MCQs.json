@@ -1,0 +1,115 @@
+{
+    "keywords": "2010-2022_Chemistry_MCQs",
+    "example": [
+        {
+            "year": "2010",
+            "category": "（全国卷ⅱ）",
+            "question": "1. （3 分）下列反应中, 可用离子方程式 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_{2} \\mathrm{O}$ 表示的是（ ）\nA. $\\mathrm{NH}_{4} \\mathrm{Cl}+\\mathrm{NaOH} \\stackrel{\\triangle}{=} \\mathrm{NaCl}+\\mathrm{NH}_{3} \\uparrow+\\mathrm{H}_{2} \\mathrm{O}$\nB. $\\mathrm{Mg}(\\mathrm{OH})_{2}+2 \\mathrm{HCl}=\\mathrm{MgCl}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}$\nC. $\\mathrm{NaOH}+\\mathrm{NaHCO}_{3}=\\mathrm{Na}_{2} \\mathrm{CO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$\nD. $\\mathrm{NaOH}+\\mathrm{HNO}_{3}=\\mathrm{NaNO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$\n",
+            "answer": [
+                "D"
+            ],
+            "analysis": "解: A. 该反应为固体与固体加热条件下的反应, 不属于离子反应, 故 $\\mathrm{A}$ 不选;\n\nB. $\\mathrm{Mg}(\\mathrm{OH})_{2}$ 为不溶性弱碱，不能用 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_{2} \\mathrm{O}$ 表示, 故 $\\mathrm{B}$ 不选;\n\nC. $\\mathrm{NaOH}+\\mathrm{NaHCO}=\\mathrm{Na}_{2} \\mathrm{CO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$ 的离子反应为 $\\mathrm{OH}^{-}+\\mathrm{HCO}_{3}{ }^{-}=\\mathrm{CO}_{3}{ }^{2-}+\\mathrm{H}_{2} \\mathrm{O}$, 故 $\\mathrm{C}$ 不选;\n\nD. $\\mathrm{NaOH}+\\mathrm{HNO}_{3}=\\mathrm{NaNO}_{3}+\\mathrm{H}_{2} \\mathrm{O}$ 为稀的强酸与稀的强碱反应生成可溶性盐和水的 离子反应, 可用 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_{2} \\mathrm{O}$ 表示, \n\n故选：D。\n",
+            "index": 0,
+            "score": 6
+        },
+        {
+            "year": "2010",
+            "category": "（全国卷ⅱ）",
+            "question": "2.（3 分）下面均是正丁烷与氧气反应的热化学方程式 $\\left(25^{\\circ}, 101 \\mathrm{kPa} ）:\\right.$\n\n(1) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}_{2}(\\mathrm{~g})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}=-2878 \\mathrm{~kJ} / \\mathrm{mol}$\n\n(2) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}_{2}(\\mathrm{~g})+5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\triangle \\mathrm{H}=-2658 \\mathrm{~kJ} / \\mathrm{mol}$\n\n(3) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{9}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}(\\mathrm{g})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}=-1746 \\mathrm{~kJ} / \\mathrm{mol}$\n\n(4) $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{9}{2} \\mathrm{O}_{2}(\\mathrm{~g})=4 \\mathrm{CO}(\\mathrm{g})+5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\triangle \\mathrm{H}=-1526 \\mathrm{~kJ} / \\mathrm{mol}$\n\n由此判断，正丁烷的燃烧热是（ $）$\nA. $-2878 \\mathrm{~kJ} / \\mathrm{mol}$\nB. $-2658 \\mathrm{~kJ} / \\mathrm{mol}$\nC. $-1746 \\mathrm{~kJ} / \\mathrm{mol}$\nD. $-1526 \\mathrm{~kJ} / \\mathrm{mol}$\n",
+            "answer": [
+                "A"
+            ],
+            "analysis": "解 正丁烷的燃烧热是指 $1 \\mathrm{~mol}$ 正丁烷完全燃烧生成气态 $\\mathrm{CO}_{2}$, 液态 $\\mathrm{H}_{2} \\mathrm{O}$ 放出的热量, 所以表示燃烧热的热化学方程式为: $\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_{2}(\\mathrm{~g})=$ $4 \\mathrm{CO}_{2}(\\mathrm{~g})+5 \\mathrm{H}_{2} \\mathrm{O}$ (1) $\\triangle \\mathrm{H}=-2878 \\mathrm{~kJ} / \\mathrm{mol}$, 正丁烷的燃烧热为 $-2878 \\mathrm{~kJ} / \\mathrm{mol}$ 。 故选: $\\mathrm{A}$ 。\n",
+            "index": 1,
+            "score": 6
+        },
+        {
+            "year": "2010",
+            "category": "（全国卷ⅱ）",
+            "question": "3. （3 分）在相同条件下, 下列说法错误的是（）\nA. 氯气在饱和食盐水中的溶解度小于在纯水中的溶解度\nB. 碘在碘化钾溶液中的溶解度大于在纯水中的溶解度\nC. 醋酸在醋酸钠溶液中电离的程度大于在纯水中电离的程度\nD. 工业上生产硫酸的过程中使用过量的空气可提高 $\\mathrm{SO}_{2}$ 的利用率\n",
+            "answer": [
+                "C"
+            ],
+            "analysis": "解： A、氯气溶于水存在平衡 $\\mathrm{Cl}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{Cl}^{-}+\\mathrm{HClO}$, 饱和氯化钠溶 液含有电离氯离子, 氯离子浓度增大, 使平衡向左移动, 抑制氯气的溶解, 故 A 正确;\n\nB、磺在磺化钾溶液中的存在平衡 $\\mathrm{I}_{2}+\\mathrm{I}^{-} \\rightleftharpoons \\mathrm{I}_{3}{ }^{-}, \\mathrm{KI}$ 溶液中, 含有电离磺离子, 磺 离子浓度增大，使平衡向右移动, 碘的溶解度增大, 故 B 正确;\n\nC、醋酸存在电离平衡 $\\mathrm{HAc} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{Ac}^{-}$, 醋酸钠溶液中有大量的 $\\mathrm{Ac}^{-}, \\mathrm{Ac}^{-}$浓度增 大抑制醋酸的电离, 故 C 错误;\n\nD、工业生成硫酸存在平衡: $2 \\mathrm{SO}_{2}+\\mathrm{O}_{2} \\rightleftharpoons 2 \\mathrm{SO}_{3}$, 增大氧气的浓度, 平衡向正反应 移动, 可以提高二氧化硫的转化率, 故 D 正确;\n\n故选: C。\n",
+            "index": 2,
+            "score": 6
+        },
+        {
+            "year": "2010",
+            "category": "（全国卷ⅱ）",
+            "question": "5. （3 分) 若 $\\left(\\mathrm{NH}_{4}\\right){ }_{2} \\mathrm{SO}_{4}$ 在强热时分解的产物是 $\\mathrm{SO}_{2} 、 \\mathrm{~N}_{2} 、 \\mathrm{NH}_{3}$ 和 $\\mathrm{H}_{2} \\mathrm{O}$, 则该 反应中化合价发生变化和末发生变化的 $\\mathrm{N}$ 原子数之比为（）\nA. $1: 4$\nB. $1: 2$\nC. $2: 1$\nD. $4: 1$\n",
+            "answer": [
+                "B"
+            ],
+            "analysis": "解: 该反应中, $\\mathrm{NH}_{4}{ }^{+} \\rightarrow \\mathrm{N}_{2}$ 氮元素的化合价由 -3 价 $\\rightarrow 0$ 价, 生成一个氮 气分子需要铵根离子失去 6 个电子, 生成一个二氧化硫分子需要硫酸根离子 得到 2 个电子, 所以其最小公倍数是 6 , 然后其它元素根据原子守恒进行配平 方程式, 所以该方程式为 $3\\left(\\mathrm{NH}_{4}\\right){ }_{2} \\mathrm{SO}_{4} \\stackrel{\\text { 强热 }}{=} 3 \\mathrm{SO}_{2} \\uparrow+\\mathrm{N}_{2} \\uparrow+4 \\mathrm{NH}_{3} \\uparrow+6 \\mathrm{H}_{2} \\mathrm{O}$, 该 方程式中铵根离子和氨气分子中氮原子的化合价都是- 3 价, 化合价不变, 所 以则该反应中化合价发生变化和末发生变化的 $\\mathrm{N}$ 原子数之比为 $1 \\times 2: 4 \\times 1=1$ $: 2$\n\n故选: B。\n",
+            "index": 3,
+            "score": 6
+        },
+        {
+            "year": "2010",
+            "category": "（全国卷ⅱ）",
+            "question": "6. (3 分) 在一定温度、压强下, 向 $100 \\mathrm{mLCH}_{4}$ 和 $\\mathrm{Ar}$ 的混合气体中通入 $400 \\mathrm{mLO}_{2}$ , 点燃使其完全燃烧, 最后在相同条件下得到干燥气体 $460 \\mathrm{~mL}$, 则反应前混 合气体中 $\\mathrm{CH}_{4}$ 和 $\\mathrm{Ar}$ 物质的量之比是 ( $)$\nA. $1: 4$\nB. $1: 3$\nC. $1: 2$\nD. $1: 1$\n",
+            "answer": [
+                "A"
+            ],
+            "analysis": "解：设原混合气体中含有 $\\mathrm{xmlCH}_{4}$, 反应的方程式为 $\\mathrm{CH}_{4}+2 \\mathrm{O}_{2} \\rightarrow \\mathrm{CO}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}$ ，利用差量法计算:\n\n$\\mathrm{CH}_{4}+2 \\mathrm{O}_{2} \\rightarrow \\mathrm{CO}_{2}+2 \\mathrm{H}_{2} \\mathrm{O} \\triangle \\mathrm{V}$\n\n$\\begin{array}{lccc}1 & 2 & 1 & 2 \\\\ x & 2 x & x & 2 x\\end{array}$\n\n则 $2 x=(100 \\mathrm{ml}+400 \\mathrm{ml})-460 \\mathrm{ml}=40 \\mathrm{ml}$,\n\n解得 $\\mathrm{x}=20 \\mathrm{ml}$,\n\n所以: $A r$ 的体积为 $V(A r)=100 \\mathrm{ml}-20 \\mathrm{ml}=80 \\mathrm{ml}$,\n\n气体的体积之比等于物质的量之比,\n\n所以: $\\mathrm{n}\\left(\\mathrm{CH}_{4}\\right): \\mathrm{n}(\\mathrm{Ar})=\\mathrm{V}\\left(\\mathrm{CH}_{4}\\right): \\mathrm{v}(\\mathrm{Ar})=20 \\mathrm{ml}: 80 \\mathrm{ml}=1: 4$,\n\n故选: A。\n",
+            "index": 4,
+            "score": 6
+        },
+        {
+            "year": "2010",
+            "category": "（全国卷ⅱ）",
+            "question": "7. （3 分）短周期元素 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 的原子序数依次增大，且 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}^{+} 、 \\mathrm{Z}$ 的最外层电子数与其电子层数的比值依次为 $2 、 3 、 4 、 2$ (不考虑零族元素). 下列关于这些元素的叙述错误的是（）\nA. $X$ 和其他三种元素均可形成至少 2 种二元化合物\nB. $\\mathrm{W}$ 和 $\\mathrm{X} 、 \\mathrm{Z}$ 两种元素分别形成的二元化合物中, 均有直线形分子\nC. $\\mathrm{W} 、 \\mathrm{X}$ 和 $\\mathrm{Y}$ 三种元素可以形成碱性化合物\nD. Z 和其他三种元素形成的二元化合物, 其水溶液均呈酸性\n",
+            "answer": [
+                "D"
+            ],
+            "analysis": "解：短周期元素 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y} 、 \\mathrm{Z}$ 原子序数依次增大, 且 $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}^{+} 、 \\mathrm{Z}$ 的最外层电子数与其电子层数的比值依次为 $2 、 3 、 4 、 2$, 若 $\\mathrm{W}$ 的电子层数为 2 , 最外层电子数为 4 , 所以 $\\mathrm{W}$ 为 $\\mathrm{C}$, 若 $\\mathrm{W}$ 的电子层数为 3 , 最外层电子数为 6, 所以 $\\mathrm{W}$ 为 $\\mathrm{S} ; \\mathrm{X}$ 的电子层数为 2 , 最外层电子数为 6 , 所以 $\\mathrm{X}$ 为 $\\mathrm{O}$, 即 $\\mathrm{W}$ 只能为 $\\mathrm{C} ; \\mathrm{Y}^{+}$的电子层数为 2 , 最外层电子数为 8 , 所以 $\\mathrm{Y}$ 的质子数为 $2+8+1=11$, 所以 $\\mathrm{Y}$ 为 $\\mathrm{Na} ; \\mathrm{Z}$ 的电子层数为 3 , 最外层电子数为 6 , 所以 $\\mathrm{Z}$ 为 $\\mathrm{S}$\n\nA. $\\mathrm{O}$ 和 $\\mathrm{C}$ 形成 $\\mathrm{CO} 、 \\mathrm{CO}_{2}, \\mathrm{O}$ 和 $\\mathrm{Na}$ 形成 $\\mathrm{Na}_{2} \\mathrm{O} 、 \\mathrm{Na}_{2} \\mathrm{O}_{2}, \\mathrm{O}$ 和 $\\mathrm{S}$ 形成 $\\mathrm{SO}_{2} 、 \\mathrm{SO}_{3}$, 故 $\\mathrm{A}$ 正确;\n\nB. $\\mathrm{W}$ 和 $\\mathrm{X} 、 \\mathrm{Z}$ 两种元素分别形成的 $\\mathrm{CO}_{2} 、 \\mathrm{CS}_{2}$, 均为直线型分子, 故 $\\mathrm{B}$ 正确;\n\nC. W、X 和 $\\mathrm{Y}$ 三种元素可以形成碳酸钠, 碳酸钠溶液呈碱性, 故 C 正确;\n\nD. $\\mathrm{S}$ 与 $\\mathrm{Na}$ 可形成二元化合物 $\\mathrm{Na}_{2} \\mathrm{~S}$, 其水溶液呈碱性, 故 $\\mathrm{D}$ 错误;\n\n故选：D。\n",
+            "index": 5,
+            "score": 6
+        },
+        {
+            "year": "2011",
+            "category": "（新课标）",
+            "question": "1. 下列叙述正确的是（）\nA. $1.00 \\mathrm{molNaCl}$ 中含有 $6.02 \\times 10^{23}$ 个 $\\mathrm{NaCl}$ 分子\nB. $1.00 \\mathrm{molNaCl}$ 中, 所有 $\\mathrm{Na}^{+}$的最外层电子总数为 $8 \\times 6.02 \\times 10^{23}$\nC. 欲配置 $1.00 \\mathrm{~L}, 1.00 \\mathrm{~mol} . \\mathrm{L}^{-1}$ 的 $\\mathrm{NaCl}$ 溶液, 可将 $58.5 \\mathrm{gNaCl}$ 溶于 $1.00 \\mathrm{~L}$ 水中\nD. 电解 $58.5 \\mathrm{~g}$ 熔融的 $\\mathrm{NaCl}$, 能产生 $22.4 \\mathrm{~L}$ 氯气（标准状况）、23.0g 金属钠\n",
+            "answer": [
+                "B"
+            ],
+            "analysis": "解： $\\mathrm{A} 、$ 因 $\\mathrm{NaCl}$ 为离子化合物, 则不存在 $\\mathrm{NaCl}$ 分子, 故 $\\mathrm{A}$ 错误;\n\n$\\mathrm{B}$ 、因 $\\mathrm{Na}^{+}$的最外层电子总数为 8 电子稳定结构, 则最外层电子的物质的量为 $8 \\mathrm{~mol}$ , 其电子总数为 $8 \\times 6.02 \\times 10^{23}$, 故 $B$ 正确;\n\nC、欲配置 $1.00 \\mathrm{~L}, 1.00 \\mathrm{~mol} 。 \\mathrm{~L}^{-1}$ 的 $\\mathrm{NaCl}$ 溶液, 可将 $58.5 \\mathrm{~g} \\mathrm{NaCl}$ 溶于适量水中, 配成 $1 \\mathrm{~L}$ 溶液, 而不是溶于 $1 \\mathrm{~L}$ 的水中, 故 C 错误;\n\nD、 $\\mathrm{NaCl}$ 的物质的量为 $\\frac{58.5 \\mathrm{~g}}{58.5 \\mathrm{~g} / \\mathrm{mol}}=1 \\mathrm{~mol}$, 则电解 $58.5 \\mathrm{~g}$ 熔融的 $\\mathrm{NaCl}, 1 \\mathrm{molNaCl}$ 生成 $0.5 \\mathrm{~mol}$ 氯气, 能产生 $0.5 \\mathrm{~mol} \\times 22.4 \\mathrm{~L} / \\mathrm{mol}=11.2 \\mathrm{~L}$ 氯气（标准状况）, 而不 是 $22.4 \\mathrm{~L}$ 氯气，故 D 错误;\n\n故选: B。\n",
+            "index": 6,
+            "score": 6
+        },
+        {
+            "year": "2011",
+            "category": "（新课标）",
+            "question": "2. 分子式为 $\\mathrm{C}_{5} \\mathrm{H}_{11} \\mathrm{Cl}$ 的同分异构体共有（不考虑立体异构）（）\nA. 6 种\nB. 7 种\nC. 8 种\nD. 9 种\n",
+            "answer": [
+                "C"
+            ],
+            "analysis": "解：分子式为 $\\mathrm{C}_{5} \\mathrm{H}_{11} \\mathrm{Cl}$ 的同分异构体有\n\n主链有 5 个碳原子的: $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{Cl} ; \\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CHClCH}_{3}$; $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CHClCH}_{2} \\mathrm{CH}_{3}$;\n\n主链有 4 个碳原子的: $\\mathrm{CH}_{3} \\mathrm{CH}\\left(\\mathrm{CH}_{3}\\right) \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{Cl} ; \\mathrm{CH}_{3} \\mathrm{CH}\\left(\\mathrm{CH}_{3}\\right) \\mathrm{CHClCH}_{3} ; \\mathrm{CH}_{3} \\mathrm{CCl}$ ( $\\left.\\mathrm{CH}_{3}\\right) \\mathrm{CH}_{2} \\mathrm{CH}_{3} ; \\mathrm{CH}_{2} \\mathrm{ClCH}\\left(\\mathrm{CH}_{3}\\right) \\mathrm{CH}_{2} \\mathrm{CH}_{3} ;$\n\n主链有 3 个碳原子的: $\\mathrm{CH}_{2} \\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)_{2} \\mathrm{CH}_{2} \\mathrm{Cl}$;\n\n共有 8 种情况。\n\n故选: C。\n",
+            "index": 7,
+            "score": 6
+        },
+        {
+            "year": "2011",
+            "category": "（新课标）",
+            "question": "3. 下列反应中，属于取代反应的是（）\n\n(1) $\\mathrm{CH}_{3} \\mathrm{CH}=\\mathrm{CH}_{2}+\\mathrm{Br}_{2} \\stackrel{\\mathrm{CCl}_{4}^{\\longrightarrow}}{\\longrightarrow} \\mathrm{CH}_{3} \\mathrm{CHBrCH}_{2} \\mathrm{Br}$\n\n(2) $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH} \\stackrel{\\text { 棪 } \\mathrm{H}_{2} \\mathrm{SO}_{4}}{\\triangle} \\mathrm{CH}_{2}=\\mathrm{CH}_{2}+\\mathrm{H}_{2} \\mathrm{O}$\n\n(3) $\\mathrm{CH}_{3} \\mathrm{COOH}+\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH} \\stackrel{\\text { 棪. } \\mathrm{H}_{2} \\mathrm{SO}_{4}}{\\mathrm{~A}} \\mathrm{CH}_{3} \\mathrm{COOCH}_{2} \\mathrm{CH}_{3}+\\mathrm{H}_{2} \\mathrm{O}$\n\n![](https://cdn.mathpix.com/cropped/2023_03_05_b6a30ae2ca4c230a7a82g-01.jpg?height=100&width=619&top_left_y=1441&top_left_x=296)\nA. (1)(2)\nB. (3) (4)\nC. (1)(3)\nD. (2)\n",
+            "answer": [
+                "B"
+            ],
+            "analysis": "解：A、(1)属于加成反应; (2)属于消去反应, 故 A 错;\n\nB、(3)属于酯化反应, 也属于取代反应; (4)属于苯的硝化反应, 也属于取代反应, 故 B 正确;\n\nC、(1)属于加成反应; (3)属于酯化反应，也属于取代反应，故 C 错;\n\nD、(2)属于消去反应; (4)属于苯的硝化反应, 也属于取代反应, 故 D 错。\n\n故选: B。\n",
+            "index": 8,
+            "score": 6
+        },
+        {
+            "year": "2011",
+            "category": "（新课标）",
+            "question": "5. 铁铂蓄电池又称爱迪生电池, 放电时的总反应为: $\\mathrm{Fe}^{+} \\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Fe}(\\mathrm{OH})$ ${ }_{2}+2 \\mathrm{Ni}(\\mathrm{OH})_{2}$ 下列有关该电池的说法不正确的是（ $)$\nA. 电池的电解液为碱性溶液, 正极为 $\\mathrm{Ni}_{2} \\mathrm{O}_{3}$ 、负极为 $\\mathrm{Fe}$\nB. 电池放电时, 负极反应为 $\\mathrm{Fe}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Fe}(\\mathrm{OH})_{2}$\nC. 电池充电过程中, 阴极附近溶液的碱性减弱\nD. 电池充电时, 阳极反应为 $2 \\mathrm{Ni}(\\mathrm{OH}){ }_{2}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}$\n",
+            "answer": [
+                "C"
+            ],
+            "analysis": "解: $A 、 反$ 、应后产物有氢氧化物, 可得电解液为碱性溶液, 由放电时的 反应可以得出铁做还原剂失去电子, $\\mathrm{Ni}_{2} \\mathrm{O}_{3}$ 做氧化剂得到电子, 即正极为 $\\mathrm{Ni}_{2} \\mathrm{O}_{3}$ 、负极为 $\\mathrm{Fe}$, 故 $\\mathrm{A}$ 正确;\n\nB、根据总反应 $\\mathrm{Fe}+\\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{Fe}(\\mathrm{OH})_{2}+2 \\mathrm{Ni}(\\mathrm{OH})_{2}$, 可以判断出铁铂蓄电池 放电时 $\\mathrm{Fe}$ 作负极, 发生氧化反应, 为还原剂, 失电子生成 $\\mathrm{Fe}^{2+}$, 碱性电解质 中最终生成 $\\mathrm{Fe}(\\mathrm{OH})_{2}$, 负极反应为: $\\mathrm{Fe}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Fe}(\\mathrm{OH})_{2}$, 故 B 正确\n\nC、充电可以看作是放电的逆过程, 即阴极为原来的负极, 所以电池放电时, 负 极反应为: $\\mathrm{Fe}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Fe}(\\mathrm{OH})_{2}$, 所以电池充电过程时阴极反应为 $\\mathrm{Fe}($ $\\mathrm{OH})_{2}+2 \\mathrm{e}^{-}=\\mathrm{Fe}+2 \\mathrm{OH}^{-}$, 因此电池充电过程中阴极附近溶液的 $\\mathrm{pH}$ 会升高, 故 $\\mathrm{C}$ 错误;\n\nD、充电时，阴极发生 $\\mathrm{Fe}(\\mathrm{OH})_{2}+2 \\mathrm{e}^{-}=\\mathrm{Fe}+2 \\mathrm{OH}^{-}$, 阳极发生 $2 \\mathrm{Ni}(\\mathrm{OH})$ ${ }_{2}+2 \\mathrm{OH}^{-}-2 \\mathrm{e}^{-}=\\mathrm{Ni}_{2} \\mathrm{O}_{3}+3 \\mathrm{H}_{2} \\mathrm{O}$, 故 D 正确。\n\n故选: C。\n",
+            "index": 9,
+            "score": 6
+        }
+    ]
+}

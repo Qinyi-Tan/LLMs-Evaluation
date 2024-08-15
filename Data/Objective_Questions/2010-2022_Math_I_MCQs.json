@@ -1,0 +1,115 @@
+{
+    "keywords": "2010-2022_Math_I_MCQs",
+    "example": [
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "1. （5 分) 已知集合 $A=\\{x \\in R|| x \\mid \\leqslant 2\\}\\}, B=\\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}$, 则 $A \\cap B=(\\quad$ ）\nA. $(0,2)$\nB. $[0,2]$\nC. $\\{0,2\\}$\nD. $\\{0,1,2\\}$\n",
+            "answer": [
+                "D"
+            ],
+            "analysis": "解: $A=\\{x \\in R|| x \\mid \\leqslant 2\\}=,\\{x \\in R \\mid-2 \\leqslant x \\leqslant 2\\}$,\n\n$B=\\{x \\in Z \\mid \\sqrt{x} \\leqslant 4\\}=\\{x \\in Z \\mid 0 \\leqslant x \\leqslant 16\\}$\n\n故 $A \\cap B=\\{0,1,2\\}$.\n\n应选 D.\n",
+            "index": 0,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "2. (5 分) 已知复数 $z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}, \\bar{z}$ 是 $z$ 的共轭复数, 则 $z\\cdot\bar{z}=(\\quad)$\nA. $\\frac{1}{4}$\nB. $\\frac{1}{2}$\nC. 1\nD. 2\n",
+            "answer": [
+                "A"
+            ],
+            "analysis": "解: 由 $|z|=\\left|\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}\\right|=\\frac{|\\sqrt{3}+i|}{|1-\\sqrt{3} i|^{2}}=\\frac{2}{2^{2}}=\\frac{1}{2}$ 可得 $z \\cdot \\bar{z}=|z|^{2}=\\frac{1}{4}$.\n\n另\n\n解 \n\n$$\n\\begin{aligned}\n& z=\\frac{\\sqrt{3}+i}{(1-\\sqrt{3} i)^{2}}=\\frac{\\sqrt{3}+i}{-2-2 \\sqrt{3} i}=-\\frac{1 \\sqrt{3}+i}{21+\\sqrt{3} i}=-\\frac{1}{8}(\\sqrt{3}+i)(1-\\sqrt{3} i)=\\frac{1}{4}(\\sqrt{3}-i) \\\\\n& z \\cdot \\bar{z}=\\frac{1}{4}(\\sqrt{3}-i) \\cdot \\frac{1}{4}(\\sqrt{3}+i)=\\frac{1}{4}\n\\end{aligned}\n$$\n\n故选: A.\n",
+            "index": 1,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "3. (5 分) 曲线 $y=\\frac{x}{x+2}$ 在点 $(-1,-1)$ 处的切线方程为（ $）$\nA. $y=2 x+1$\nB. $y=2 x-1$\nC. $y=-2 x-3$\nD. $y=-2 x-2$\n",
+            "answer": [
+                "A"
+            ],
+            "analysis": "解: $\\because y=\\frac{x}{x+2}$,\n\n$\\therefore y^{\\prime}=\\frac{2}{(x+2)^{2}}$\n\n所以 $\\mathrm{k}=\\left.\\mathrm{y}^{\\prime}\\right|_{\\mathrm{x}=-1}=2$, 得切线的斜率为 2 , 所以 $\\mathrm{k}=2$;\n\n所以曲线 $y=f(x)$ 在点 $(-1,-1)$ 处的切线方程为:\n\n$y+1=2 \\times(x+1)$ ，即 $y=2 x+1$.\n\n故选: A.\n",
+            "index": 2,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "5. （5 分) 已知命题 $p_{1}$ : 函数 $y=2^{x}-2^{-x}$ 在 $R$ 为增函数, $p_{2}$ : 函数 $y=2^{x}+2^{-x}$ 在 $R$ 为减函数, 则在命题 $q_{1}: p_{1} \\vee p_{2}, q_{2}: p_{1} \\wedge p_{2}, q_{3}:\\left(\\neg p_{1}\\right) \\vee p_{2}$ 和 $q_{4}: p_{1} \\wedge(\\square$ $\\left.p_{2}\\right)$ 中，真命题是（ $)$ \nA. $q_{1}, q_{3}$\nB. $q_{2}, q_{3}$\nC. $q_{1}, q_{4}$\nD. $q_{2}, q_{4}$\n",
+            "answer": [
+                "C"
+            ],
+            "analysis": "解：易知 $p_{1}$ 是真命题, 而对 $p_{2}: y^{\\prime}=2^{x} \\ln 2-\\frac{1}{2^{x}} \\ln 2=\\ln 2\\left(2^{x}-\\frac{1}{2^{x}}\\right)$, 当 $x \\in[0,+\\infty)$ 时, $2^{x} \\geqslant \\frac{1}{2^{x}}$, 又 $\\ln 2>0$, 所以 $y^{\\prime} \\geqslant 0$, 函数单调递增;\n\n同理得当 $x \\in(-\\infty, 0)$ 时, 函数单调递减, 故 $p_{2}$ 是假命题.\n\n由此可知, $q_{1}$ 真, $q_{2}$ 假, $q_{3}$ 假, $q_{4}$ 真.\n\n故选: C.\n",
+            "index": 3,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "6. （5 分) 某种种子每粒发芽的概率都为 0.9 , 现播种了 1000 粒, 对于没有发 芽的种子, 每粒需再补种 2 粒, 补种的种子数记为 $X$, 则 $X$ 的数学期望为 $(\\quad)$\nA. 100\nB. 200\nC. 300\nD. 400\n",
+            "answer": [
+                "B"
+            ],
+            "analysis": "解：由题意可知播种了 1000 粒, 没有发芽的种子数 $\\xi$ 服从二项分布, 即 $\\xi \\sim B(1000,0.1)$.\n\n而每粒需再补种 2 粒, 补种的种子数记为 $X$\n\n故 $X=2 \\xi$, 则 $E X=2 E \\xi=2 \\times 1000 \\times 0.1=200$. 故选: B.\n",
+            "index": 4,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "8. （5 分）设偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$ ，则 $\\{x \\mid f(x-2)>0\\}=($ )\nA. $\\{x \\mid x<-2$ 或 $x>4\\}$\nB. $\\{x \\mid x<0$ 或 $x>4\\}$\nC. $\\{x \\mid x<0$ 或 $x>6\\}$\nD. $\\{x \\mid x<-2$ 或 $x>2\\}$\n",
+            "answer": [
+                "B"
+            ],
+            "analysis": "解: 由偶函数 $f(x)$ 满足 $f(x)=2^{x}-4(x \\geqslant 0)$, 可得 $f(x)=f(|x|)$ $=2^{|x|-4}$,\n\n则 $f(x-2)=f(|x-2|)=2^{|x-2|}-4$, 要使 $f(|x-2|)>0$, 只需 $2^{|x-2|}-4>0$,\n\n$$\n|x-2|>2\n$$\n\n解得 $x>4$, 或 $x<0$.\n\n应选: B.\n",
+            "index": 5,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "9. (5 分）若 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角, 则 $\\frac{1+\\tan \\frac{\\alpha}{2}}{1-\\tan \\frac{\\alpha}{2}}=(\\quad)$\nA. $-\\frac{1}{2}$\nB. $\\frac{1}{2}$\nC. 2\nD. -2\n",
+            "answer": [
+                "A"
+            ],
+            "analysis": "解: 由 $\\cos \\alpha=-\\frac{4}{5}, \\alpha$ 是第三象限的角,\n\n$\\therefore$ 可得 $\\sin \\alpha=-\\frac{3}{5}$,\n\n则 $\\frac{1+\\tan \\frac{\\alpha}{2}}{1-\\tan \\frac{\\alpha}{2}}=\\frac{\\cos \\frac{\\alpha}{2}+\\sin \\frac{\\alpha}{2}}{\\cos \\frac{\\alpha}{2}-\\sin \\frac{\\alpha}{2}}=\\frac{1+\\sin \\alpha}{\\cos \\alpha}=\\frac{1-\\frac{3}{5}}{-\\frac{4}{5}}=-\\frac{1}{2}$,\n\n应选 $A$.\n",
+            "index": 6,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "10. (5 分) 设三棱柱的侧棱垂直于底面, 所有棱长都为 $a$, 顶点都在一个球面 上, 则该球的表面积为（）\nA. $\\pi a^{2}$\nB. $\\frac{7}{3} \\pi a^{2}$\nC. $\\frac{11}{3} \\pi a^{2}$\nD. $5 \\pi a^{2}$\n",
+            "answer": [
+                "B"
+            ],
+            "analysis": "解：根据题意条件可知三棱柱是棱长都为 $\\mathrm{a}$ 的正三棱柱, 上下底面中心 连 线的中点就是球心, 则其外接球的半径为 $R=\\sqrt{\\left(\\frac{a}{2}\\right)^{2}+\\left(\\frac{a}{2 \\sin 60^{\\circ}}\\right)^{2}}=\\sqrt{\\frac{7}{12} a^{2}}$, 球的表面积为 $S=4 \\pi \\cdot \\frac{7 a^{2}}{12}=\\frac{7}{3} \\pi a^{2}$,\n\n故选: B.\n",
+            "index": 7,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "12. (5 分) 已知双曲线 $E$ 的中心为原点, $P(3,0)$ 是 $E$ 的焦点, 过 $P$ 的直线 I 与 $E$ 相交于 $A, B$ 两点, 且 $A B$ 的中点为 $N(-12,-15)$, 则 $E$ 的方程式为（ )\nA. $\\frac{x^{2}}{3}-\\frac{y^{2}}{6}=1$\nB. $\\frac{x^{2}}{4}-\\frac{y^{2}}{5}=1$\nC. $\\frac{x^{2}}{6}-\\frac{y^{2}}{3}=1$\nD. $\\frac{x^{2}}{5}-\\frac{y^{2}}{4}=1$\n",
+            "answer": [
+                "B"
+            ],
+            "analysis": "解: 由已知条件易得直线 $\\mathrm{l}$ 的斜率为 $\\mathrm{k}=\\mathrm{k}_{\\mathrm{PN}}=1$,\n\n设双曲线方程为 $\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1$,\n\n$A\\left(x_{1}, y_{1}\\right), B\\left(x_{2}, y_{2}\\right)$,\n\n则有 $\\left\\{\\begin{array}{l}\\frac{x_{1}^{2}}{a^{2}}-\\frac{y_{1}^{2}}{b^{2}}=1 \\\\ \\frac{x_{2}^{2}}{a^{2}} \\frac{y_{2}^{2}}{b^{2}}=1\\end{array}\\right.$\n\n两式相减并结合 $x_{1}+x_{2}=-24, y_{1}+y_{2}=-30$ 得\n\n$\\frac{y_{1}-y_{2}}{x_{1}-x_{2}}=\\frac{4 b^{2}}{5 a^{2}}$\n\n从而 $\\mathrm{k}=\\frac{4 \\mathrm{~b}^{2}}{5 \\mathrm{a}^{2}}=1$\n\n即 $4 b^{2}=5 a^{2}$,\n\n又 $a^{2}+b^{2}=9$,\n\n解得 $a^{2}=4, b^{2}=5$,\n\n故选: B.\n",
+            "index": 8,
+            "score": 5
+        },
+        {
+            "year": "2011",
+            "category": "（新课标）",
+            "question": "1. (5 分) 复数 $\\frac{2+i}{1-2 i}$ 的共轭复数是 $(\\quad)$\nA. $-\\frac{3}{5} i$\nB. $\\frac{3}{5} i$\nC. $-\\mathrm{i}$\nD. i\n",
+            "answer": [
+                "C"
+            ],
+            "analysis": "解：复数 $\\frac{2+i}{1-2 i}=\\frac{(2+i)(1+2 i)}{(1-2 i)(1+2 i)}=\\frac{5 i}{5}=i$, 它的共轭复数为: $-i$.\n\n故选: C.\n",
+            "index": 9,
+            "score": 5
+        }
+    ]
+}
