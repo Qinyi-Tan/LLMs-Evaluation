@@ -5,22 +5,33 @@ LLMs-Evaluation介绍了如何将何将LLMs、Azure OpenAI服务和[GaoKao-Bench
 ## 代码修改
 **以下将逐步展示本项目修改原代码的部分，完整流程可至[Tutorial.pdf](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Tutorial.pdf)中查看**
 
-1. 在vscode中打开GaoKao-Bench项目，在openai_gpt4.py中更改引用包的函数为AzureOpenAI、更改base_url
-![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph1.png)
+1. 在vscode中打开GaoKao-Bench项目，在openai_gpt4.py中更改引用包的函数为AzureOpenAI
+```
+from openai import AzureOpenAI
+```
+更改base_url
+```
+    def __init__(self, api_key_list:List[str], base_url: str="your_base_url", organization: str=None, model_name:str="your_model_name", temperature:float=0.3, max_tokens: int=4096):
+```
 
 2. 加入endpoint以及api key这两个参数
-![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph2.png)
+```
+                    azure_endpoint="your_azure_endpoint",
+                    api_key="your_api_key",
+                    api_version="your_api_version"
+```
 
 3. 在objective_bench.py中将字符编码改为utf-8，确保能成功编码
-![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph3.png)
+```
+    with open("Obj_Prompt.json", "r",encoding='utf-8') as f:
+```
 
 4. 在bench_function.py中修改原字段的错误（将standard_answer改为answer），使得可以读取answer的json格式
-![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph4.png)
+```
+        standard_answer = data[i]['answer']
+```
 
-5. 在bench_function.py中修改写入文件的方式为每循环一次写一次，使得程序员可以同步做题情况，代替了原代码写完所有的题再输出的形式，避免了因为一个卡顿而无法获得输出的情况（下图所示为修改后的字段）
-![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph5.1.png)
-![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph5.2.png)
-
+5. 在bench_function.py中修改写入文件的方式为每循环一次写一次，使得程序员可以同步做题情况，代替了原代码写完所有的题再输出的形式，避免了因为一个卡顿而无法获得输出的情况（以下所示为修改后的字段）
 ```
 def choice_test_changed(**kwargs):
     """
@@ -84,9 +95,11 @@ def choice_test_changed(**kwargs):
 ```
 
 7. 在objective_bench.py中写入需要测试的LLM（可以任意选择Azure AI Studio中的基本模型），以gpt-4o为例
-![image](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Graphs/graph6.png)
+```
+    model_name = "gpt-4o"
+```
 
-8. 缩小数据集
+8. 缩小数据集（[这里](https://github.com/Qinyi-Tan/LLMs-Evaluation/tree/main/Data/Objective_Questions)可见）
 
 **修改完成，可对比不同大语言模型的做题能力**
 
