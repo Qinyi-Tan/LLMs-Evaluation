@@ -2,10 +2,18 @@
 LLMs-Evaluation介绍了如何将何将LLMs、Azure OpenAI服务和[GaoKao-Bench项目](https://github.com/OpenLMLab/GAOKAO-Bench)配合使用，以测评不同大语言模型针对不同学科的做题能力。
 
 # 说明
+## 调用Azure OpenAI服务
+**完整流程可至[Tutorial.pdf](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Tutorial.pdf)中查看**
+1. 我们需要使用以下命令安装 OpenAI Python 客户端库
+```
+pip install openai
+```
+2. 注册Azure AI Studio账号，转到Azure AI Studio中的**资源和密钥**，检索**api key**以及**endpoint**（两个必要参数），使得后续能成功调用Azure OpenAI
+
 ## 代码修改
 **以下将逐步展示本项目修改原代码的部分，完整流程可至[Tutorial.pdf](https://github.com/Qinyi-Tan/LLMs-Evaluation/blob/main/Tutorial.pdf)中查看**
 
-1. 在vscode中打开GaoKao-Bench项目，在openai_gpt4.py中更改引用包的函数为AzureOpenAI
+1. 在vscode中打开GaoKao-Bench项目（确保以及克隆其仓库），在openai_gpt4.py中更改引用包的函数为AzureOpenAI
 ```
 from openai import AzureOpenAI
 ```
