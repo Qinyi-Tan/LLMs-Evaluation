@@ -124,11 +124,11 @@ def choice_test_changed(**kwargs):
 # 总结
 **1. 学科比较**
 
-   ① 数学、地理、生物、英语：这四个学科中，gpt-4o-mini的正确率都高于gpt-35-turbo。特别是在数学和地理学科上，它的正确率超过85%，而gpt-35-turbo的正确率只有约60%
+   ① 数学、地理、生物、英语：这四个学科中，gpt-4o-mini的正确率都高于gpt-3.5-turbo。特别是在数学和地理学科上，它的正确率超过85%，而gpt-3.5-turbo的正确率只有约60%
    
-   ② 物理、化学：这两个学科中，两个模型都表现不佳，而gpt-35-turbo的表现最弱（两个学科都只有20%）
+   ② 物理、化学：这两个学科中，两个模型都表现不佳，而gpt-3.5-turbo的表现最弱（两个学科都只有20%）
    
-   ③ 政治、语文：这两个学科两个模型表现都不太理想，然而gpt-4o-mini的表现仍然优于gpt-35-turbo 
+   ③ 政治、语文：这两个学科两个模型表现都不太理想，然而gpt-4o-mini的表现仍然优于gpt-3.5-turbo 
    
 **2. 模型比较**
 
@@ -138,7 +138,7 @@ def choice_test_changed(**kwargs):
    
    ·文科：正确率略低于理科，为62.5%，但也相对稳定
    
-   ② gpt-35-turbo
+   ② gpt-3.5-turbo
    
    ·理科与文科的表现都较差，正确率不高于50%，但相比较而言文科正确率略高
    
@@ -150,11 +150,11 @@ def choice_test_changed(**kwargs):
    
 **3. 总体趋势**
 
-   ①gpt-4o-mini在所有学科的表现上均优于gpt-35-turbo，但与自己相比，在个别学科（如政治和化学）中表现也有短板
+   ①gpt-4o-mini在所有学科的表现上均优于gpt-3.5-turbo，但与自己相比，在个别学科（如政治和化学）中表现也有短板
    
-   ②gpt-4o-mini在理科题目上的表现优于文科，且均优于gpt-35-turbo
+   ②gpt-4o-mini在理科题目上的表现优于文科，且均优于gpt-3.5-turbo
    
-   ③总体来看，gpt-4o在理科方面表现最佳，gpt-4o-mini次之，最后是gpt-35-turbo
+   ③总体来看，gpt-4o在理科方面表现最佳，gpt-4o-mini次之，最后是gpt-3.5-turbo
 
 # 致谢
 非常感谢GaoKao-Bench项目开源者@Zong Yi@piglaker@chunyang Li
